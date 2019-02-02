@@ -34,18 +34,24 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
 To install all development dependencies install [Bundler](http://bundler.io/).
-```bash
-    gem install bundler
-``` 
-and run next command from root folder:
 
 ```bash
-  bundle install
+gem install bundler jekyll
+```
+
+update your development enviroment for mac OS
+```bash
+xcode-select --install
+```
+
+and run next command from root folder:
+```bash
+bundle install
 ```  
 
 To start Jekyll run:
 ```bash
-    jekyll serve -w
+bundle exec jekyll serve --watch
 ```
 Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:4000/zeppelin/ (on Windows)
 
