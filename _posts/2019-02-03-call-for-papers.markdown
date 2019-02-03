@@ -18,9 +18,9 @@ If you belong to one of those groups you are cordially invited to submit a talk 
 #### Themes and topics – what do we expect?
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
-##### Blockchain
+##### Chain
 
-__Blockchain 2019__
+__Blockchain Technology__
 
 * Public Blockchain Structure Design
 * Migration to Sidechain
