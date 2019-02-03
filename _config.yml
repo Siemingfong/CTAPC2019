@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About CTAPC 2019"
 aboutBlock:
- - {title: "Chain", image: "conference.jpg", text: "Blockchain is bringing about a major transformation in the financial sector. It is a global phenomenon — in fact banks and fintech companies in India are applying a test and scale approach to blockchain technology in a controlled environment." }
- - {title: "Token", image: "hackathon.jpg", text: "Ethereum has already established itself as the most popular DApp platform, attracting massive amounts of developers thanks to its support for an easy-to-use programming language, Solidity, as well as a bevy of ICOs with ERC-20 tokens. It also boasts the most functional use cases of any crypto project in history, with more DApps coming to its mainnet each week." }
- - {title: "AI", image: "workshop.jpg", text: "AI can introduce even new decentralised learning systems such as federated learning or new data sharing techniques that make the system much more efficient." }
+ - {title: "Chain", image: "chain.jpg", text: "Blockchain is bringing about a major transformation in the financial sector. It is a global phenomenon — in fact banks and fintech companies in India are applying a test and scale approach to blockchain technology in a controlled environment." }
+ - {title: "Token", image: "token.jpg", text: "Ethereum has already established itself as the most popular DApp platform, attracting massive amounts of developers thanks to its support for an easy-to-use programming language, Solidity, as well as a bevy of ICOs with ERC-20 tokens. It also boasts the most functional use cases of any crypto project in history, with more DApps coming to its mainnet each week." }
+ - {title: "AI", image: "ai.jpg", text: "AI can introduce even new decentralised learning systems such as federated learning or new data sharing techniques that make the system much more efficient." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
