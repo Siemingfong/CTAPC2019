@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 CTAPC 2019 will be held 25-26th of May in international city of Taipei. If you want to be part of this great event as a speaker you knocked at the good door.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Presenters – who should speak at the CTAP Conference?
 
 * developers (freelance and hired)
 * companies developing software (apps, tools, frameworks etc.)
@@ -18,35 +18,21 @@ If you belong to one of those groups you are cordially invited to submit a talk 
 #### Themes and topics – what do we expect?
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
-##### Android
+##### Blockchain
 
-__Google I/O 2014__
+__Blockchain 2019__
 
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
+* Public Blockchain Structure Design
+* Migration to Sidechain
+* New Dapp application developer
+* Storage Access Blockchain Framework
 
-__General__
+##### Token
 
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
+* Token Economic Ecology System Design
+* Security Token Offering Liquidation
 
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
-
-
-##### Cloud
+##### AI
 
 * Google Cloud Platform
   * Compute Engine
@@ -57,11 +43,11 @@ __General__
 
 
 #### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+__Deadline__ is May 1, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [devfest@gdg.org.ua](mailto:apacbcd@gmail.com)
