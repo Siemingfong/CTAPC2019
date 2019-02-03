@@ -1,17 +1,17 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
+  name: "mingfong"
+  surname: "Sie"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: Siemingfong.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "NTU Computer Science PhD student"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://www.facebook.com/mingfong6"}
+    - {name: "twitter", link: "https://twitter.com/SieMingFong"}
+    - {name: "github", link: "https://github.com/Siemingfong/"}
+    - {name: "site", link: "https://www.linkedin.com/in/siemingfong/"}
 - 
   id: 1
   name: "Oleh"
