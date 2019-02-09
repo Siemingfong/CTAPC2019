@@ -1,10 +1,10 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2019-05-25"
+  dateReadable: "May 25"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Chain", color: "#90be4e"}
+    - {title: "Token", color: "#03a9f4"}
+    - {title: "Token", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -22,7 +22,7 @@
     	sessionIds: [307]
     }
 - 
-  date: "2014-10-25"
+  date: "2019-05-26"
   dateReadable: "October 25"
   tracks: 
     - {title: "Android", color: "#90be4e"}
