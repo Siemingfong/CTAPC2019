@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,7 +60,7 @@ eventDate: "May 25 - 26, 2019"
 typeoutTextValues: '"", "Chain", "Token", "AI", "Platform", "Conference"'
 typeoutFallback: "NTU"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -74,7 +74,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "16", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
@@ -196,7 +196,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "APAC Blockchain Development Association is a non-profit social group with the aim of promoting the development of the blockchain in the Asia Pacific region. First, promote the research and development of blockchain. Second, assist in the development of the blockchain ecosystem. Third, promote blockchain innovation and development and application. Fourth, to promote the participation of young and middle-aged students at home and abroad. Fifth, shorten the regional information gap."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
