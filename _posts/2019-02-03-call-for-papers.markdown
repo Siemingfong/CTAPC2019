@@ -34,15 +34,11 @@ __Blockchain Technology__
 
 ##### AI
 
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
+* Bitcoin Transactions Analysis System
+* High-Performance Clustering Feature Structure
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+#### Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform).
 __Deadline__ is May 1, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
