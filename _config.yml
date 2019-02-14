@@ -21,12 +21,12 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "APAC Blockchain Development Association"
+organizerAlternateName: "APAC Blockchain Development Association"
+organizerDescription: "Serve the non-profit social group with the aim of promoting the development of the blockchain in the Asia Pacific region."
+organizerEmail: "apacbcd@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://apbcd.org/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -129,7 +129,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "2000"
+  price: "1000"
   priceCurrency: "TWD"
   ticketsNumber: "200"
   ribbon: "-20%"
@@ -140,7 +140,7 @@ ticketsOffers:
   validThrough: "2019-04-01T23:59"
  -
   name: "Last Chance"
-  price: "2500"
+  price: "1500"
   priceCurrency: "TWD"
   ticketsNumber: "200"
   ribbon: "-50%"
@@ -153,7 +153,7 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "1500"
+  price: "500"
   priceCurrency: "TWD"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -196,7 +196,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "APAC Blockchain Development Association is a non-profit social group with the aim of promoting the development of the blockchain in the Asia Pacific region. First, promote the research and development of blockchain. Second, assist in the development of the blockchain ecosystem. Third, promote blockchain innovation and development and application. Fourth, to promote the participation of young and middle-aged students at home and abroad. Fifth, shorten the regional information gap."
+aboutUs: "APAC Blockchain Development Association is a non-profit organization with the aim of promoting the development of the blockchain in the Asia Pacific region. First, promote the research and development of blockchain. Second, assist in the development of the blockchain ecosystem. Third, promote blockchain innovation and development and application. Fourth, to promote the participation of young and middle-aged students at home and abroad. Fifth, shorten the regional information gap."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -206,8 +206,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "25.0187728, 121.5415509"
+logisticsMapMobileCenterCoordinates: "25.0187728, 121.5415509"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
