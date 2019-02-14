@@ -1,5 +1,4 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Bitfinex", description: "Bitfinex - The most trustable crypto exchange", link: "https://www.bitfinex.com/", imageUrl: "Bitfinex.png"}
-    - {name: "Cobinhood", description: "Cobinhhod - Zero trading fee crypto exchange", link: "https://cobinhood.com/", imageUrl: "Cobinhood.jpg"}
+    - {name: "HTC", description: "HTC - Leading world VR and Blockchain Phone manufacturer", link: "https://www.htc.com/us/, imageUrl: "Htc.png"}
