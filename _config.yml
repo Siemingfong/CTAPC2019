@@ -7,7 +7,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
- 
+
 
 # Site Settings
 title: "CTAPC 2019"
@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "CTAPC <typeout> 2019"
 eventDate: "May 25 - 26, 2019"
-typeoutTextValues: '"", "Chain", "Token", "AI", "Platform", "Conference"'
+typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
 typeoutFallback: "NTU"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
@@ -68,7 +68,7 @@ aboutTitle: "About CTAPC 2019"
 aboutBlock:
  - {title: "Chain", image: "chain.jpg", text: "Blockchain is bringing about a major transformation in the financial sector. It is a global phenomenon — in fact banks and fintech companies in India are applying a test and scale approach to blockchain technology in a controlled environment." }
  - {title: "Token", image: "token.jpg", text: "Ethereum has already established itself as the most popular DApp platform, attracting massive amounts of developers thanks to its support for an easy-to-use programming language, Solidity, as well as a bevy of ICOs with ERC-20 tokens. It also boasts the most functional use cases of any crypto project in history, with more DApps coming to its mainnet each week." }
- - {title: "AI", image: "ai.jpg", text: "AI can introduce even new decentralised learning systems such as federated learning or new data sharing techniques that make the system much more efficient." }
+ - {title: "Artificial Intelligence", image: "ai.jpg", text: "AI can introduce even new decentralised learning systems such as federated learning or new data sharing techniques that make the system much more efficient." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -239,3 +239,4 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
