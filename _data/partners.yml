@@ -1,4 +1,5 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "HTC", description: "HTC - Leading world VR and Blockchain Phone manufacturer", link: "https://www.htc.com/us/, imageUrl: "Htc.png"}
+    - {name: "HTC", description: "HTC - Leading world VR and Blockchain Phone manufacturer", link: "https://www.htc.com/us/", imageUrl: "Htc.png"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
