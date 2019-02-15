@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Chain", color: "#90be4e"}
     - {title: "Token", color: "#03a9f4"}
-    - {title: "Token", color: "#e91e63"}
+    - {title: "Artiticial Intelligence", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
