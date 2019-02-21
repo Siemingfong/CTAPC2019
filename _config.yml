@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
+ - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
+ - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
