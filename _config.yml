@@ -60,7 +60,7 @@ eventDate: "May 25 - 26, 2019"
 typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
 typeoutFallback: "NTU"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform", text: "Become a speaker"}
+ - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
