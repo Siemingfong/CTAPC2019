@@ -11,21 +11,35 @@
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
+                    {% if element.text != null %}
+                    <big>{{ element.text}}</></big>
+                    {% endif %}
                 </li>
                 {% endfor %}
             </ul>
             {% endfor %}
+            <!--
+            <ul class="list-inline">
+            <li>
+              <a href="#" target="_blank">
+                <img src="{{ site.baseurl }}/img/organizers/ctapclogo.png" title="CTAPC committee" alt="CTAPC committee">
+              </a>
+              CTAPC committee
+            </li>
+            </ul>
+            -->
+
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
-                {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
+              {% for element in partner.elements %}
+              <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                <a href="{{ element.link }}" target="_blank">
+                  <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                </a>
+              </li>
+              {% endfor %}
             </ul>
             {% endfor %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>

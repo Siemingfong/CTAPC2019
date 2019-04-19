@@ -60,19 +60,19 @@ layout: compress
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
-            if ($(window).width() > 767) {
+            /* if ($(window).width() > 767) {
                 var googleMaps = 'index',
                     eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
                     centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
                     mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
                     icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
+            } else { */
                var staticGoogleMaps = true,
                 eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
                 centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
                 mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
+            /* } */
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
@@ -92,7 +92,8 @@ layout: compress
                         {% endif %}
                     {% endfor %}
                 ];
-                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                /* rockstarSpeakers.sort(function() {return 0.5 - Math.random()}); */
+              rockstarSpeakers.reverse();
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
                         count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),

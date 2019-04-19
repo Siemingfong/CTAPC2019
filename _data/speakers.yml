@@ -1,5 +1,5 @@
-- 
-  id: 3
+-
+  id: 1
   name: "Steve"
   surname: "Liao"
   company: "National Taiwan University"
@@ -7,6 +7,236 @@
   bio: "Everything for real: impact, learning-by-doing, inter-disciplinary."
   thumbnailUrl: Steve.png
   rockstar: true
-  social: 
+  social:
     - {name: "website", link: "https://www.csie.ntu.edu.tw/~liao/"}
-- 
+
+-
+  id: 2
+  name: "Jiaping"
+  surname: "Wang"
+  company: "Sinovation Ventures"
+  title: "Executive Director"
+  bio: ""
+  thumbnailUrl: Jiaping.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: "http://jiapingwang.com/"}
+
+-
+  id: 3
+  name: "Minako"
+  surname: "Kojima"
+  company: "Andoromeda"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: MinakoKojima.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 4
+  name: "Dr. Sean"
+  surname: "Lee"
+  company: "Facebook USA"
+  title: "Head, AI infrastructure"
+  bio: ""
+  thumbnailUrl: Sean.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 5
+  name: "Dr. Bor-sung"
+  surname: "Liang"
+  company: "Mediatek"
+  title: "Chief Technology Consultant"
+  bio: ""
+  thumbnailUrl: BorSungLiang.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+#-
+#  id: 6
+#  name: "Dr. Ansel"
+#  surname: "Teng"
+#  company: "boodleAI"
+#  title: "CTO"
+#  bio: ""
+#  thumbnailUrl: Ansel.jpg
+#  rockstar: false
+#  social:
+#    - {name: "website", link: ""}
+#-
+#  id: 7
+#  name: "Dr. Eric"
+#  surname: "Chen"
+#  company: "FirstTech"
+#  title: "Executive VP"
+#  bio: ""
+#  thumbnailUrl:
+#  rockstar: false
+#  social:
+#    - {name: "website", link: ""}
+
+-
+  id: 8
+  name: "Dr. Shang-Hong"
+  surname: "Lai"
+  company: "Microsoft"
+  title: "Principal Researcher"
+  bio: ""
+  thumbnailUrl: ShangHongLai.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 9
+  name: "Dr. Jacky"
+  surname: "Hsu"
+  company: "IBM"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: jacky.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 10
+  name: "許孟祥"
+  surname: ""
+  company: "National Kaohsiung University of Science and Technology"
+  title: "Ex VP"
+  #bio: ""
+  thumbnailUrl: xms.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 11
+  name: "Dr. 林慶達"
+  surname: ""
+  company: "Information and Communications Research Laboratories of Industrial Technology Research Institute"
+  #title: ""
+  #bio: ""
+  thumbnailUrl: gray.png
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 12
+  name: "Dr. Iceberg"
+  surname: "Fu"
+  company: "Industry Wave, CA, USA"
+  #title: ""
+  #bio: ""
+  thumbnailUrl: Iceberg.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 13
+  name: "Dr. Max"
+  surname: "Wu"
+  company: "MediaTek"
+  title: "Director of AI"
+  #bio: ""
+  thumbnailUrl: gray.png
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 14
+  name: "Dr. Ssu-Hsuan"
+  surname: "Lu"
+  #company: ""
+  #title: ""
+  #bio: ""
+  thumbnailUrl: gray.png
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+
+-
+  id: 15
+  name: "Dr. 林盟翔"
+  surname: ""
+  company: "Ming Chuan University"
+  title: "Professor"
+  #bio: ""
+  thumbnailUrl: lms.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 16
+  name: "Jesse Knutson 江旭昇"
+  surname: ""
+  company: "Maicoin"
+  title: "Director of Institutional Sales and Marketing"
+  #bio: ""
+  thumbnailUrl: Jesse.jpg 
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 17
+  name: "Joanna Tien 田智娟"
+  surname: ""
+  company: "PSIM"
+  title: "Director"
+  #bio: ""
+  thumbnailUrl: Edwin.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 18
+  name: "Bryan"
+  surname: "Cheng"
+  company: "Leadbest"
+  title: "CSO"
+  #bio: ""
+  thumbnailUrl: Bryan.jpg 
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 19
+  name: "Sway Teng 鄧萬偉"
+  surname: ""
+  company: "Starbit"
+  title: "CEO"
+  #bio: ""
+  thumbnailUrl: Sway.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 20
+  name: "William"
+  surname: "Wei"
+  company: "Veridium Labs"
+  title: "Ex CEO"
+  #bio: ""
+  thumbnailUrl: gray.png
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 21
+  name: "Dr. 梁賓先"
+  surname: ""
+  company: "TIOTA"
+  title: "Chairman"
+  #bio: ""
+  thumbnailUrl: gray.png
+  rockstar: false
+  social:
+    - {name: "website", link: ""}

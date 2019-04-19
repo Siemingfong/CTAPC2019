@@ -1,59 +1,378 @@
 -
-  id: 307
-  title: "Coffee Break"
+  id: 101
+  title: "報到"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 102
+  title: "Coffee Break / 討論與交流"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 103
+  title: "Lunch Time / 討論與交流"
+  place: ""
   service: true
 -
+  id: 104
+  title: "Coffee / Tea break"
+  place: ""
+  service: true
+-
+  id: 105
+  title: "Break"
+  place: ""
+  service: true
+-
+  id: 106
+  title: "開幕"
+  place: ""
+  service: true
+-
+  id: 107
+  title: "Tea Break"
+  place: ""
+  service: true
+
+
+
+
+-
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "待確定"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+  #complexity: "Intermediate"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Computing Trend for AI & Blockchain : From Tera-scale to Exa-scale 人工智慧與區塊鏈運算大趨勢 : 邁向百萬兆次計算"
+  description: ""
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [5]
+  #complexity: "Intermediate" 
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: " Panel discussion"
+  description: "7"
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: []
+  #complexity: "Intermediate" 
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "OS special oral session"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate" 
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Lightning talk & presentation"
+  description: ""
+  subtype: Poster
+  speakers: []
+  #complexity: "Beginner"
+-
+  id: 006
+  title: "Blockchain Research"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  #complexity: "Intermediate"
+-
+  id: 007
+  title: "Token Research"
+  description: "專題演講"
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 008
+  title: "AI Research"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 009
+  title: "AI Research"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 010
+  title: "Blockchain Research"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 011
+  title: "Blockchain Research"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 012
+  title: "Panel discussion"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+
+-
+  id: 301
+  title: "主持人：馬黛 (National Sun Yat-sen University, Prof)"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 302
+  title: "Blockchain STO 白皮書：活化資產，翻轉經濟的機會與挑戰"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+  #complexity: "Intermediate"
+-
+  id: 303
+  title: "區塊鏈對全球供應鏈生態系的影響及導入探討"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+  #complexity: "Intermediate"
+-
+  id: 304
+  title: "區塊鏈大未來"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+  #complexity: "Intermediate"
+-
+  id: 305
+  title: "區塊鏈技術之企業應用與轉型"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+  #complexity: "Intermediate"
+-
+  id: 306
+  title: "Ushering in the New Era: 百花齊放: Almost 100 Blockchain STOs in USA"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+  #complexity: "Intermediate"
+-
+  id: 307
+  title: "主持人：李俊宏 (National Kaohsiung University of Science and Technology, Prof)"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 308
+  title: "Panel of Token economic: Jason Hsu (Congressman at Taiwan),  Wang and Danny Deng (Chairman, Tai Could Technology)"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 309
+  title: "Identity centric digital economy"
+  description: ""
+  subtype: presentation
+  speakers: [20]
+  #complexity: "Intermediate"
+-
+  id: 310
+  title: "物聯網與區塊鏈的完美結合"
+  description: ""
+  subtype: presentation
+  speakers: [21]
+  #complexity: "Intermediate"
+-
+  id: 311
+  title: "Panel of Token economic:  Dr. 李俊宏,  Dr. 許孟祥 and Dr. 林慶達"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+   
+-
+  id: 401
+  title: "AI Computing"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+-
+  id: 402
+  title: "AI Computing"
+  description: ""
+  subtype: presentation
+  speakers: [13]
+-
+  id: 403
+  title: "Panel of AI computing Sean and Max conversation"
+  description: ""
+  subtype: presentation
+  speakers: [4,13]
+-
+  id: 405
+  title: "Introduction to NNEF for AI Framework"
+  description: ""
+  subtype: presentation
+  speakers: [14]
+-
+  id: 406
+  title: "Lightning talk and Poster Session"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 407
+  title: "Parallel Sessions: General & OS"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 408
+  title: "區塊鏈到底有什麼了不起？"
+  description: ""
+  subtype: presentation
+  speakers: [2]
+
+-
+  id: 409
+  title: "Panel of Blockchain computing: Wang and Steve conversation"
+  description: ""
+  subtype: presentation
+  speakers: [1,2]
+
+-
+  id: 410
+  title: "Panel of AI & Blockchain: Lai and Liang conversation"
+  description: ""
+  subtype: presentation
+  speakers: [5,8]
+-
+  id: 411
+  title: "Poster Session"
+  description: ""
+  subtype: presentation
+  speakers: []
+
+-
+  id: 501
+  title: "區塊鏈大未來"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+
+-
+  id: 502
+  title: "區塊鏈對全球供應鏈生態系的影響及導入探討"
+  description: ""
+  subtype: presentation
+  speakers: [9] 
+
+-
+  id: 503
+  title: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology) <br> 區塊鏈技術之企業應用與轉型"
+  description: ""
+  subtype: presentation
+  speakers: [11] 
+-
+  id: 504
+  title: "致 詞  Dr. 葉匡時 高雄市副市長"
+  description: ""
+  subtype: presentation
+  speakers: [] 
+-
+  id: 505
+  title: "Blockchain STO & Light-Touch Token Standard: 普惠金融與活化資產的機會與挑戰"
+  description: ""
+  subtype: presentation
+  speakers: [1] 
+-
+  id: 506
+  title: "主持人：Dr. 馬黛 (Professor at National Sun Yat-sen University)"
+  description: ""
+  subtype: presentation
+  speakers: [] 
+-
+  id: 507
+  title: "金融科技與普惠金融之STO創新法制展望 (Prospects for STO Innovational Legal System of FinTech and Financial Inclusion)"
+  description: ""
+  subtype: presentation
+  speakers: [15] 
+-
+  id: 508
+  title: "STO Showcase"
+  description: ""
+  subtype: presentation
+  speakers: [] 
+-
+  id: 509
+  title: "The Internet’s Own Ads: How Web3 Infrastructure & Token Economy will reshape the Ads Industry"
+  description: ""
+  subtype: presentation
+  speakers: [3] 
+-
+  id: 510
+  title: "跨國資產通證化趨勢-STO發行平台"
+  description: ""
+  subtype: presentation
+  speakers: [18] 
+-
+  id: 511
+  title: "虛擬通貨交易平台 Fin + Tech"
+  description: ""
+  subtype: presentation
+  speakers: [19] 
+-
+  id: 512
+  title: "Panel of STO discussion:<br>
+Chen-Mou Cheng (Professor at National Taiwan University), 
+David Pan (CEO, ACE加速器)(邀請中)<br>
+Jesse Knutson 江旭昇 (Director of Institutional Sales and Marketing, Maicoin)<br>
+池明洋 MingYang Chih (CEO & Founder, CHELPIS)<br>
+Joanna Tien 田智娟 (Director PSIM)<br>
+Minako Kojama (CEO, Andoromeda)<br>
+Sway Teng 鄧萬偉 (CEO, Starbit)<br>
+Bryan Cheng (COO, WageCan)"
+  description: ""
+  subtype: presentation
+  speakers: [] 
+-
+  id: 513
+  title: "Token Economy"
+  description: ""
+  subtype: presentation
+  speakers: [3] 
+-
+  id: 514
+  title: "專題演講"
+  description: ""
+  subtype: presentation
+  speakers: [] 
+-
+  id: 515
+  title: "STO Showcase"
+  description: ""
+  subtype: presentation
+  speakers: [16] 
+-
+  id: 516
+  title: "主持人：Marx Wang (CSO, BytePay)"
+  description: ""
+  subtype: presentation
+  speakers: [] 
+-
+  id: 517
+  title: "主持人：Dr. 柯博昌 (VP at National Kaohsiung University of Science and Technology)"
+  description: ""
+  subtype: presentation
+  speakers: [] 

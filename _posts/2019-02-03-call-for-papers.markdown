@@ -38,12 +38,14 @@ __Blockchain Technology__
 * High-Performance Clustering Feature Structure
 
 
-#### Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLScZ5IxQWW7mdymoxRiu00N0OZQ3C52OKoWOzHGsUznSzb_7QA/viewform).
+#### Please submit your proposals [here](https://easychair.org/conferences/?conf=ctapc2019).
 __Deadline__ is May 1, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
+<!--
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+-->
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:apacbcd@gmail.com)
+Email organizers at [apacbcd@gmail.com](mailto:apacbcd@gmail.com)

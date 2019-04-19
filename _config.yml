@@ -13,12 +13,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "CTAPC 2019"
 email: "apacbcd@gmail.com"
 description: "CTAPC is a set of blockchain events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
-permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+baseurl: ""
+# url: "https://gdg-x.github.io"
+url: "https://ctapc.csie.ntu.edu.tw/"
+permalink: "/blog/:title.html"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "APAC Blockchain Development Association"
@@ -36,8 +37,11 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://easychair.org/conferences/?conf=ctapc2019"
+# TODO
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/sponsor"
 
 
 # Navigation
@@ -47,7 +51,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/sponsor/", text: "Sponsor"}
+   # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,12 +61,15 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "CTAPC <typeout> 2019"
-eventDate: "May 25 - 26, 2019"
-typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
+#eventDate: "May 25 - 26, 2019"
+eventDate: "April 27 and May 25 to 26"
+#typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
+typeoutTextValues: '"", "Chain", "Token", "AI"'
 typeoutFallback: "NTU"
 heroButtons:
  - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
+   # - {link: "/sponsor", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About CTAPC 2019"
@@ -89,28 +97,29 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Barry Lam Hall"
-eventLocationLink: "https://www.ee.ntu.edu.tw/b_3rd.html"
-eventStreetAddress: "No. 140, Zhoushan Road"
+eventLocationName: "國立臺灣大學 & 國立中山大學"
+eventLocationLink: "https://www.csie.ntu.edu.tw/"
+eventStreetAddress: "No. 170, Sec. 2, Xinhai Rd."
 eventAddressLocality: "NTU"
 eventAddressLocalityRegion: "Taipei"
-eventPostalCode: "79000"
+eventPostalCode: "10663"
 eventAddressCountry: "Taiwan"
 eventStartTime: "2019-05-25T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-05-26T15:10"
-eventPlaceCoordinates: "25.0187728, 121.5415509"
-mapCenterCoordinates: "25.0187728, 121.5415509"
-mapMobileCenterCoordinates: "25.0187728, 121.5415509"
+eventEndTime: "2019-05-26T17:00"
+eventPlaceCoordinates: "25.019453, 121.541533"
+mapCenterCoordinates: "25.019553, 121.541533"
+mapMobileCenterCoordinates: "25.019553, 121.541533"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["1 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "103_0.jpg"
+venueSmallImage1: "103_1.jpg"
+venueSmallImage2: "103_2.jpg"
+venueSmallImage3: "103_2.jpg"
+venueTitle: "CSIE Bldg."
+# venueFeatures: ["1 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: []
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -124,7 +133,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Price table"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -132,38 +141,52 @@ ticketsOffers:
   price: "1000"
   priceCurrency: "TWD"
   ticketsNumber: "200"
-  ribbon: "-20%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #ribbon: "-20%"
+  buyButtonLink: "https://www.accupass.com/go/ctapc2019"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["The quantity is limited."]
   validFrom: "2019-02-01T09:00"
-  validThrough: "2019-04-01T23:59"
+  validThrough: "2019-05-26T23:59"
+  soldOut: true
+  soldOutText: "Finished"
  -
   name: "Last Chance"
   price: "1500"
   priceCurrency: "TWD"
   ticketsNumber: "200"
-  ribbon: "-50%"
+  #ribbon: "-50%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.accupass.com/go/ctapc2019"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["The quantity is limited."]
   validFrom: "2019-04-01T00:00"
-  validThrough: "2019-05-20T23:59"
-  disabled: true
+  validThrough: "2019-05-26T23:59"
+  #disabled: true
  -
   name: "Student"
   price: "500"
   priceCurrency: "TWD"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "200"
+  buyButtonLink: "https://www.accupass.com/go/ctapc2019"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["The quantity is limited."]
   validFrom: "2019-02-01T10:00"
   validThrough: "2019-05-26T23:59"
   soldOut: true
   soldOutText: "Sold Out"
+ -
+  name: "Last Chance for Student"
+  price: "1000"
+  priceCurrency: "TWD"
+  ticketsNumber: "200"
+  buyButtonLink: "https://www.accupass.com/go/ctapc2019"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["The quantity is limited."]
+  validFrom: "2019-02-01T10:00"
+  validThrough: "2019-05-26T23:59"
+
 
 # Footer
 socialLinks:
@@ -178,15 +201,15 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:apacbcd@gmail.com", text: "https://apbcd.org/"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+# -
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+#discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true

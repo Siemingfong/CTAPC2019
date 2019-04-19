@@ -1,5 +1,10 @@
 - 
+  group: ""
+  elements: 
+    - {name: "高雄市政府", description: "高雄市政府", link: "#", imageUrl: "Kaohsiung.png"}
+-
   group: "General sponsor"
   elements: 
-    - {name: "HTC", description: "HTC - Leading world VR and Blockchain Phone manufacturer", link: "https://www.htc.com/us/", imageUrl: "Htc.png"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "PeakHills", description: "Focus on custom compiler development services, AI Framework, TVM Deep Learning Compiler, LLVM optimization services, and software development.", link: "https://www.peakhillsgroup.com/", imageUrl: "PH_Calibri.png"}
+  #    - {name: "HTC", description: "HTC - Leading world VR and Blockchain Phone manufacturer", link: "https://www.htc.com/us/", imageUrl: "Htc.png"}
+  #  - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
