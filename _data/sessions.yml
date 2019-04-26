@@ -286,7 +286,8 @@
   speakers: [11] 
 -
   id: 504
-  title: "致 詞  Dr. 葉匡時 高雄市副市長"
+  title: "致 	詞  Dr. 葉匡時 高雄市副市長  (Deputy Mayor at Kaohsiung City Government) & 前中山大學 EMBA 執行長 (Ex CEO at Executive Master of Business Administration National Sun Yat-sen University)<br>
+主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
   description: ""
   subtype: presentation
   speakers: [] 
@@ -310,10 +311,10 @@
   speakers: [15] 
 -
   id: 508
-  title: "STO Showcase"
+  title: "區塊鏈的迷思：產業升級與轉型"
   description: ""
   subtype: presentation
-  speakers: [] 
+  speakers: [23]
 -
   id: 509
   title: "The Internet’s Own Ads: How Web3 Infrastructure & Token Economy will reshape the Ads Industry"
@@ -334,18 +335,19 @@
   speakers: [19] 
 -
   id: 512
-  title: "Panel of STO discussion:<br>
-Chen-Mou Cheng (Professor at National Taiwan University), 
-David Pan (CEO, ACE加速器)(邀請中)<br>
-Jesse Knutson 江旭昇 (Director of Institutional Sales and Marketing, Maicoin)<br>
-池明洋 MingYang Chih (CEO & Founder, CHELPIS)<br>
-Joanna Tien 田智娟 (Director PSIM)<br>
-Minako Kojama (CEO, Andoromeda)<br>
-Sway Teng 鄧萬偉 (CEO, Starbit)<br>
-Bryan Cheng (COO, WageCan)"
+  #  title: "Panel of STO discussion:<br>
+  #主持人：Chen-Mou Cheng (Professor at National Taiwan University),<br>
+  #Michael Chen (Head of Business Development, Asia Blockchain Accelerator)<br>
+  #Jesse Knutson 江旭昇,<br>
+  #池明洋 MingYang Chih (CEO & Founder, CHELPIS),<br>
+  #Joanna Tien 田智娟 (Director, PSIM),<br>
+  #Minako Kojima (CEO, Andoromeda),<br>
+  #Sway Teng 鄧萬偉 (CEO, Starbit),<br>
+  #Bryan Cheng (COO, WageCan)."
+  title: "Panel of STO discussion:<br>主持人：Chen-Mou Cheng (Professor at National Taiwan University)"
   description: ""
   subtype: presentation
-  speakers: [] 
+  speakers: [23,25,16,24,17,3,19,18] 
 -
   id: 513
   title: "Token Economy"
@@ -360,7 +362,7 @@ Bryan Cheng (COO, WageCan)"
   speakers: [] 
 -
   id: 515
-  title: "STO Showcase"
+  title: "台灣的獨有機會: 證券化代幣發行"
   description: ""
   subtype: presentation
   speakers: [16] 
@@ -376,3 +378,21 @@ Bryan Cheng (COO, WageCan)"
   description: ""
   subtype: presentation
   speakers: [] 
+-
+  id: 601
+  title: "Cryptographic Foundation"
+  description: ""
+  subtype: presentation
+  speakers: [1] 
+-
+  id: 602
+  title: "Blockchain Trinity: 術 (Engine, Consensus) 權 (Token Economy) 道 (Governance, Contract)"
+  description: ""
+  subtype: presentation
+  speakers: [1] 
+-
+  id: 603
+  title: "Bitcoin anomaly & Bitcoin tracing"
+  description: ""
+  subtype: presentation
+  speakers: [1] 

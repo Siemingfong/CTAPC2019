@@ -6,11 +6,13 @@
   group: "Co-organizers"
   elements: 
     - {name: "National Taiwan University", description: "NTU - the most prestigious comprehensive university in Taiwan and one of the top ranked universities in the world. ", link: "https://www.ntu.edu.tw/", imageUrl: "National_Taiwan_University_logo.png"}
-- 
-  group: ""
-  elements: 
     - {name: "APAC Blockchain Develpoment Association", description: "APAC Blockchain Development Association - Serve the non-profit social group with the aim of promoting the development of the blockchain in the Asia Pacific region", link: "https://apbcd.org/", imageUrl: "APAC-icon.png"}
-- 
-  group: ""
-  elements: 
     - {name: "加上陽明山未來學社", description: "加上陽明山未來學社", link: "#", imageUrl: "future9980.png"}
+      #- 
+      #  group: ""
+      #  elements: 
+      #    - {name: "APAC Blockchain Develpoment Association", description: "APAC Blockchain Development Association - Serve the non-profit social group with the aim of promoting the development of the blockchain in the Asia Pacific region", link: "https://apbcd.org/", imageUrl: "APAC-icon.png"}
+      #- 
+      #  group: ""
+      #  elements: 
+      #    - {name: "加上陽明山未來學社", description: "加上陽明山未來學社", link: "#", imageUrl: "future9980.png"}

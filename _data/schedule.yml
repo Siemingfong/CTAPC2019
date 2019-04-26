@@ -1,9 +1,9 @@
 -
-  date: "2019-04-27"
-  dateReadable: "April 27 <small><small>(Premiere Day)</small></small>"
-  day: "0"
+  date: "2019-04-26"
+  dateReadable: "April 26 <small><small>(Premiere Day)</small></small>"
+  day: "Day 0"
   tracks:
-      - {title: "台灣大學資訊工程系 102 演講廳 上午場", color: "#90be4e"}
+      - {title: "台灣大學資訊工程系 101 教室", color: "#90be4e"}
   timeslots:
     - {
         startTime: "",
@@ -11,17 +11,17 @@
         sessionIds: [516]
     }
     - {
-        startTime: "09:00",
-        endTime: "10:30",
+        startTime: "19:30",
+        endTime: "21:00",
         sessionIds: [509]
     }
 
 -
   date: "2019-04-27"
   dateReadable: "April 27 <small><small>(Premiere Day)</small></small>"
-  day: "0"
+  day: "Day 0"
   tracks:
-      - {title: "中山大學管理學院演講聽 下午場", color: "#90be4e"}
+      - {title: "中山大學管理學院2037演講廳 下午場", color: "#90be4e"}
   timeslots:
 #    - {
 #        startTime: "",
@@ -85,35 +85,71 @@
     }
     - {
         startTime: "14:30",
-        endTime: "14:50",
+        endTime: "14:45",
         sessionIds: [515]
     }
     - {
-        startTime: "14:50",
-        endTime: "15:10",
+        startTime: "14:45",
+        endTime: "15:00",
         sessionIds: [508]
     }
     - {
-        startTime: "15:10",
-        endTime: "15:30",
+        startTime: "15:00",
+        endTime: "15:15",
         sessionIds: [510]
     }
     - {
-        startTime: "15:30",
-        endTime: "15:50",
+        startTime: "15:15",
+        endTime: "15:30",
         sessionIds: [511]
     }
     - {
         startTime: "15:30",
-        endTime: "16:00",
+        endTime: "16:30",
         sessionIds: [512]
     }
 
+-
+  date: "2019-05-03"
+  dateReadable: "May 3 International CTA May’s first week"
+  day: ""
+  tracks:
+      - {title: "台大資工德田館 102 教室", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "18:30",
+        endTime: "21:00",
+        sessionIds: [601]
+    }
+-
+  date: "2019-05-10"
+  dateReadable: "May 10 International CTA May’s second week"
+  day: ""
+  tracks:
+      - {title: "台大資工德田館 102 教室", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "18:30",
+        endTime: "21:00",
+        sessionIds: [602]
+    }
+-
+  date: "2019-05-17"
+  dateReadable: "May 17 International CTA May’s third week"
+  day: ""
+  tracks:
+      - {title: "台大資工德田館 102 教室", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "18:30",
+        endTime: "21:00",
+        sessionIds: [603]
+    }
 
 -
   date: "2019-05-24"
   dateReadable: "May 24 <small><small>(Joint keynote of CT* conferenc)</small></small>"
-  day: "1"
+  day: "Day 1"
   tracks: 
     - {title: "台大電資學院博理館 101 講堂", color: "#90be4e"}
   timeslots:
@@ -176,7 +212,7 @@
 - 
   date: "2019-05-25"
   dateReadable: "May 25"
-  day: "2"
+  day: "Day 2"
   tracks: 
     - {title: "台大資工德田館", color: "#90be4e"}
       #    - {title: "Token", color: "#03a9f4"}
@@ -231,7 +267,7 @@
 - 
   date: "2019-05-26"
   dateReadable: "May 26"
-  day: "3"
+  day: "Day 3"
   tracks: 
     - {title: "上午場", color: "#90be4e"}
       #    - {title: "Web & Cloud", color: "#03a9f4"}
@@ -265,7 +301,7 @@
 - 
   date: "2019-05-26"
   dateReadable: "May 26"
-  day: "3"
+  day: "Day 3"
   tracks: 
     - {title: "君鴻酒店41F宴會廳 下午場", color: "#90be4e"}
   timeslots: 

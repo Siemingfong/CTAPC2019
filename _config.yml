@@ -62,7 +62,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "CTAPC <typeout> 2019"
 #eventDate: "May 25 - 26, 2019"
-eventDate: "April 27 and May 25 to 26"
+eventDate: "April 26 to 27 and May 3, 10, 17, 24 to 26"
 #typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
 typeoutTextValues: '"", "Chain", "Token", "AI"'
 typeoutFallback: "NTU"

@@ -1,10 +1,10 @@
 -
   id: 1
-  name: "Steve"
-  surname: "Liao"
+  name: "廖世偉"
+  surname: ""
   company: "National Taiwan University"
-  title: "Associate Professor"
-  bio: "Everything for real: impact, learning-by-doing, inter-disciplinary."
+  title: "Professor"
+  bio: "台灣大學資工系副教授廖世偉是Stanford大學博士，過去在史丹佛, Intel, Google工作了22年，是Android compiler, Virtual machine, RenderScript engine的原作者之一，因對Android的貢獻，獲得Google頒發的最高榮譽：創始人獎（Founders' award）。專長於區塊鏈、Android系統、大數據與金融科技，並開設台灣大學FinTech&區塊鏈課程。"
   thumbnailUrl: Steve.png
   rockstar: true
   social:
@@ -28,7 +28,7 @@
   surname: "Kojima"
   company: "Andoromeda"
   title: "CEO"
-  bio: ""
+  bio: "CEO of Andoromeda, Xooger, Serial Entrepreneur, Cofounder of Gpool, ACM/ICPC Asia Regional Gold Medal,, Microsoft Beauty of Programming 2015 Champion"
   thumbnailUrl: MinakoKojima.jpg
   rockstar: true
   social:
@@ -108,8 +108,8 @@
   name: "許孟祥"
   surname: ""
   company: "National Kaohsiung University of Science and Technology"
-  title: "Ex VP"
-  #bio: ""
+  title: "Distinguished Professor"
+  bio: "高雄第一科技大學 副校長、管理學院院長、研發長、主任秘書、圖書資訊館館長"
   thumbnailUrl: xms.jpg
   rockstar: false
   social:
@@ -122,7 +122,7 @@
   company: "Information and Communications Research Laboratories of Industrial Technology Research Institute"
   #title: ""
   #bio: ""
-  thumbnailUrl: gray.png
+  thumbnailUrl: lqd.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
@@ -146,7 +146,7 @@
   company: "MediaTek"
   title: "Director of AI"
   #bio: ""
-  thumbnailUrl: gray.png
+  thumbnailUrl: Max.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
@@ -169,7 +169,7 @@
   surname: ""
   company: "Ming Chuan University"
   title: "Professor"
-  #bio: ""
+  bio: "銘傳大學財金法律學系與金融科技學院合聘專任副教授、金融科技應用學士學位學程主任林盟翔是國立臺北大學法學博士，從事法律、金融、財經、文創跨領域理論與實務研究。亞太區塊鏈協會顧問、虛擬通貨交易所自律公約（SRG）起草人、中華民國儲蓄互助社及互助社協會信託顧問、Raphael 拉斐爾反洗錢諮詢顧問有限公司顧問、中華民國人壽保險商業同業公會人身保險業務員申訴委員會委員、消費者文教基金會金融保險委員會委員、法務部《信託法》研修小組研究員、行政院原住民族委員會「原住民族發展綱要第1期計畫」起草小組委員，行政院原住民族委員會「原住民族互助金庫條例草案」立法顧問團顧問。"
   thumbnailUrl: lms.jpg
   rockstar: false
   social:
@@ -180,7 +180,7 @@
   surname: ""
   company: "Maicoin"
   title: "Director of Institutional Sales and Marketing"
-  #bio: ""
+  bio: "先前為麥格理台灣股權資本業務負責人。在加入麥格理之前，Jesse 曾在巴克萊、元大及永豐服務，並且擁有股權資本市場、數據分析及交易背景。"
   thumbnailUrl: Jesse.jpg 
   rockstar: false
   social:
@@ -192,7 +192,7 @@
   company: "PSIM"
   title: "Director"
   #bio: ""
-  thumbnailUrl: Edwin.jpg
+  thumbnailUrl: Joanna.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
@@ -200,9 +200,10 @@
   id: 18
   name: "Bryan"
   surname: "Cheng"
-  company: "Leadbest"
-  title: "CSO"
-  #bio: ""
+  company: "LeadBest"
+  title: "CPO"
+  bio: "LeadBest Consulting Group 產品長暨區塊鏈事業部<br>
+為知名產品開發與區塊鏈應用策略顧問，協助傳統產業賦能區塊鏈技術升級。 十年以上產品開發運營經驗、超過6年區塊鏈產業運營與投資經驗。 常受邀至各大知名公司團體分享全球區塊鏈技術、投資、產業發展趨勢，如KPMG、中華開發金控、廣達集團、AppWorks、鉅亨網、台北金融研究發展基金會、AngelHack、Startup Grind(Google for Entrepreneurs)、JumpStart、扶輪社、扶青團等等。"
   thumbnailUrl: Bryan.jpg 
   rockstar: false
   social:
@@ -211,9 +212,11 @@
   id: 19
   name: "Sway Teng 鄧萬偉"
   surname: ""
-  company: "Starbit"
+  company: "STAR BIT"
   title: "CEO"
-  #bio: ""
+  bio: "STAR BIT思偉達創新科技共同創辦人暨執行長<br>
+淡江資工系畢業，畢業後一路在科技產業累計技術與市場相關經驗，從京元電子、南亞科技、到美商 SUPERMICRO，職位囊括工程師、半導體產品應用工程師、Sales、外商產品經理、採購等……將創業視為遠程計劃，積極鋪路。 2017年，因職務機緣接觸區塊鏈技術，並看好其長遠發展性，在該年底創立了STAR BIT思偉達創新科技，定位為以區塊鏈為本的軟體與技術服務公司，正式切入這個風口產業。<br>
+STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX、區塊鏈手機錢包STAR WALLET、區塊鏈新手網站「陪你上鏈」等，目前更全力發展「區塊鏈之星BLOCKCHAINSTAR」產業合作計畫，積極進攻區塊鏈落地應用的廣大市場。"
   thumbnailUrl: Sway.jpg
   rockstar: false
   social:
@@ -225,7 +228,7 @@
   company: "Veridium Labs"
   title: "Ex CEO"
   #bio: ""
-  thumbnailUrl: gray.png
+  thumbnailUrl: William.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
@@ -236,7 +239,57 @@
   company: "TIOTA"
   title: "Chairman"
   #bio: ""
-  thumbnailUrl: gray.png
+  thumbnailUrl: lbx.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 22
+  name: "David Pan 潘奕彰"
+  surname: ""
+  company: "ACE 加速器"
+  title: "CEO"
+  #bio: ""
+  thumbnailUrl: David.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 23
+  name: "Michael"
+  surname: "Chen"
+  company: "Asia Blockchain Accelerator"
+  title: "Head of Business Development"
+  #bio: ""
+  thumbnailUrl: MichaelChen.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 24
+  name: "MingYang Chih 池明洋"
+  surname: ""
+  company: "CHELPIS"
+  title: "CEO & Founder"
+  bio: "MingYang graduated with Mater degree from National Taiwan University.<br>
+He works in new technology development over 10 years and joins over 20 advance products from Health care, Crypto, IoT, Mobile app, Blockchain.<br>
+He involved three startups as co-founder. He learns from the experiences to build up the leadership, business development, product management and build future.<br>
+These knowledge base apply on Chelpis to develop many products. He lets Chelpis create happy revenues in two years and with profits.<br>
+Chelpis focus on blockchain ledger application and token economy system now. These system will apply self-made products KelvinWallet, Chelpis Ledger, SAAS. 
+"
+  thumbnailUrl: MingYang.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "https://chelpis.com"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/my-chih/#experience-section"}
+-
+  id: 25
+  name: "Nick"
+  surname: "Chang"
+  company: "MaiCoin"
+  title: "General Manager"
+  bio: "Nick畢業於美國普渡大學(Purdue University)並擁有電機學士學位。在加入MaiCoin之前，他曾在矽谷從事商務開發，服務於台達電與國巨。"
+  thumbnailUrl: Nick.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
