@@ -286,8 +286,8 @@
   speakers: [11] 
 -
   id: 504
-  title: "致 	詞  Dr. 葉匡時 高雄市副市長  (Deputy Mayor at Kaohsiung City Government) & 前中山大學 EMBA 執行長 (Ex CEO at Executive Master of Business Administration National Sun Yat-sen University)<br>
-主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
+  title: "致 	詞  Dr. 葉匡時 高雄市副市長  (Deputy Mayor at Kaohsiung City Government) & 前中山大學 EMBA 執行長 (Ex CEO at EMBA National Sun Yat-sen University)"
+  host: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
   description: ""
   subtype: presentation
   speakers: [] 
@@ -344,7 +344,8 @@
   #Minako Kojima (CEO, Andoromeda),<br>
   #Sway Teng 鄧萬偉 (CEO, Starbit),<br>
   #Bryan Cheng (COO, WageCan)."
-  title: "Panel of STO discussion:<br>主持人：Chen-Mou Cheng (Professor at National Taiwan University)"
+  title: "Panel of STO discussion"
+  host: "主持人：Chen-Mou Cheng (Professor at National Taiwan University)"
   description: ""
   subtype: presentation
   speakers: [23,25,16,24,17,3,19,18] 
