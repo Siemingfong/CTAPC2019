@@ -41,7 +41,7 @@
 
 -
   id: 001
-  title: "待確定"
+  title: "GAN Models for Visual Learning"
   description: ""
   subtype: presentation
   speakers: [8]
@@ -126,7 +126,7 @@
 
 -
   id: 301
-  title: "主持人：馬黛 (National Sun Yat-sen University, Prof)"
+  title: "主持人：Dr. 廖世偉 (Professor at National Taiwan University)"
   description: ""
   subtype: presentation
   speakers: []
@@ -195,7 +195,9 @@
   #complexity: "Intermediate"
 -
   id: 311
-  title: "Panel of Token economic:  Dr. 李俊宏,  Dr. 許孟祥 and Dr. 林慶達"
+  title: "區塊鏈技術圓桌論壇 Panel of Token economic"
+  host: "主持人：Dr. 林盟翔(亞太區塊鏈協會顧問、銘傳大學金融科技學院及財金法律學系合聘專任副教授)<br>
+與談人：Dr. 許孟祥(高雄科技大學資管系 特聘教授), Dr. 林慶達(工研院資訊與通訊研究所 創新智慧應用與金融科技技術組 組長), Feihu Tang(CEO, Andoromeda) and Dr. 李俊宏(國立高雄科技大學 電機工程系教授)"
   description: ""
   subtype: presentation
   speakers: []
@@ -203,7 +205,7 @@
    
 -
   id: 401
-  title: "AI Computing"
+  title: "The Computing Frontiers of Social Network"
   description: ""
   subtype: presentation
   speakers: [4]
@@ -397,3 +399,17 @@
   description: ""
   subtype: presentation
   speakers: [1] 
+-
+  id: 701
+  title: "區塊鏈的特色優勢"
+  description: ""
+  subtype: presentation
+  speakers: [2] 
+-
+  id: 702
+  title: "數字經濟圓桌論壇 Panel of Token economic"
+  description: ""
+  host: "主持人：徐遠重 董事長 (大三生集團 董事長)<br>與談人：元道 (中關村產業聯盟 董事長)and 張壽松 (聚鏈集團 董事長 , William Wei (Ex CEO, Veridium Labs)"
+  subtype: presentation
+  speakers: [] 
+

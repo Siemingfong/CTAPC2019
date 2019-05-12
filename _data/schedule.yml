@@ -306,37 +306,42 @@
     - {title: "君鴻酒店41F宴會廳 下午場", color: "#90be4e"}
   timeslots: 
     - {
+        startTime: "13:00",
+        endTime: "13:30",
+        sessionIds: [101]
+    }
+    - {
         startTime: "",
         endTime: "",
         sessionIds: [301]
     }
     - {
-        startTime: "13:30",
-        endTime: "14:00",
-        sessionIds: [408]
+        startTime: "14:10",
+        endTime: "14:20",
+        sessionIds: [701]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:30",
+        startTime: "14:20",
+        endTime: "14:50",
         sessionIds: [308]
     }
     - {
-        startTime: "14:30",
-        endTime: "15:00",
+        startTime: "14:50",
+        endTime: "15:05",
+        sessionIds: [107]
+    }
+    - {
+        startTime: "15:10",
+        endTime: "15:25",
         sessionIds: [302]
     }
     - {
-        startTime: "15:00",
-        endTime: "15:20",
-        sessionIds: [309]
+        startTime: "15:25",
+        endTime: "15:55",
+        sessionIds: [702]
     }
     - {
-        startTime: "15:20",
-        endTime: "15:40",
-        sessionIds: [310]
-    }
-    - {
-        startTime: "15:40",
-        endTime: "16:30",
+        startTime: "15:55",
+        endTime: "16:25",
         sessionIds: [311]
     }
