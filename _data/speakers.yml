@@ -141,12 +141,12 @@
 
 -
   id: 13
-  name: "Dr. Max"
-  surname: "Wu"
+  name: "Dr. Ming-Yu Hung 洪明郁"
+  surname: ""
   company: "MediaTek"
-  title: "Director of AI"
+  title: "Dept. Manager"
   #bio: ""
-  thumbnailUrl: Max.jpg
+  thumbnailUrl: MingYu.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
@@ -157,8 +157,8 @@
   surname: "Lu"
   #company: ""
   #title: ""
-  #bio: ""
-  thumbnailUrl: gray.png
+  bio: "Dr. Lu currently is working in the PeakHills Group. Dr. Lu earned her PhD degree in Computer Science from National Tsing Hua University in 2014, and received her Master and Bachelor degree in Information Management from Providence University in 2002 and 2005, respectively. Prior to join PeakHills Group as a staff, Dr. Lu worked in National Chiao Tung University (NCTU) and had intern in Institute for Information Industry. Her research has involved a wide range of topics related to parallel and distributed processing, peer-to-peer computing, healthcare, software-defined networking, etc. In particularly, she is currently interested in Deep Learning, AI compiler, and Neural Network frameworks."
+  thumbnailUrl: lsh.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
@@ -293,3 +293,26 @@ Chelpis focus on blockchain ledger application and token economy system now. The
   rockstar: false
   social:
     - {name: "website", link: ""}
+-
+  id: 26
+  name: "Jserv 黃敬群"
+  surname: ""
+  company: "BiiLabs"
+  title: "Co-founder"
+  bio: ""
+  thumbnailUrl: Jserv.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+-
+  id: 27
+  name: "Po-Chun"
+  surname: "Kuo"
+  company: "Cobinhood & Dexon Foundation"
+  title: "Chief Scientist"
+  bio: ""
+  thumbnailUrl: PoChun.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
+

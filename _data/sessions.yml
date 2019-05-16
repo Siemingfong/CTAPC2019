@@ -35,7 +35,11 @@
   title: "Tea Break"
   place: ""
   service: true
-
+-
+  id: 108
+  title: "晚宴"
+  place: ""
+  service: true
 
 
 
@@ -211,7 +215,7 @@
   speakers: [4]
 -
   id: 402
-  title: "AI Computing"
+  title: "Edge AI and Its Key Success Factors"
   description: ""
   subtype: presentation
   speakers: [13]
@@ -229,16 +233,16 @@
   speakers: [14]
 -
   id: 406
-  title: "Lightning talk and Poster Session"
+  title: "待確定"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [26]
 -
   id: 407
-  title: "Parallel Sessions: General & OS"
+  title: "待確定"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [9]
 -
   id: 408
   title: "區塊鏈到底有什麼了不起？"
@@ -265,6 +269,19 @@
   description: ""
   subtype: presentation
   speakers: []
+-
+  id: 412
+  title: "Lightning talk and Poster Session"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 413
+  title: "待確定"
+  description: ""
+  subtype: presentation
+  speakers: [27]
+
 
 -
   id: 501

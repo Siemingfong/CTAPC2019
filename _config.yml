@@ -64,7 +64,7 @@ heroTitle: "CTAPC <typeout> 2019"
 #eventDate: "May 25 - 26, 2019"
 eventDate: "April 26 to 27 and May 3, 10, 17, 24 to 26"
 #typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
-typeoutTextValues: '"", "Chain", "Token", "AI"'
+#typeoutTextValues: '"", "Chain", "Token", "AI"'
 typeoutFallback: "NTU"
 heroButtons:
  - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
@@ -133,7 +133,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Price table"
+ticketsTitle: "Price table (A ticket for all sessions)"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
