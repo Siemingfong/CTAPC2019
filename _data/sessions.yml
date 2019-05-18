@@ -37,7 +37,7 @@
   service: true
 -
   id: 108
-  title: "晚宴"
+  title: "Banquet"
   place: ""
   service: true
 
@@ -141,13 +141,13 @@
   subtype: presentation
   speakers: [1]
   #complexity: "Intermediate"
--
-  id: 303
-  title: "區塊鏈對全球供應鏈生態系的影響及導入探討"
-  description: ""
-  subtype: presentation
-  speakers: [9]
-  #complexity: "Intermediate"
+  #-
+  #  id: 303
+  #  title: "區塊鏈對全球供應鏈生態系的影響及導入探討"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [9]
+  #  #complexity: "Intermediate"
 -
   id: 304
   title: "區塊鏈大未來"
@@ -155,27 +155,27 @@
   subtype: presentation
   speakers: [10]
   #complexity: "Intermediate"
--
-  id: 305
-  title: "區塊鏈技術之企業應用與轉型"
-  description: ""
-  subtype: presentation
-  speakers: [11]
-  #complexity: "Intermediate"
--
-  id: 306
-  title: "Ushering in the New Era: 百花齊放: Almost 100 Blockchain STOs in USA"
-  description: ""
-  subtype: presentation
-  speakers: [12]
-  #complexity: "Intermediate"
--
-  id: 307
-  title: "主持人：李俊宏 (National Kaohsiung University of Science and Technology, Prof)"
-  description: ""
-  subtype: presentation
-  speakers: []
-  #complexity: "Intermediate"
+  #-
+  #  id: 305
+  #  title: "區塊鏈技術之企業應用與轉型"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [11]
+  #  #complexity: "Intermediate"
+  #-
+  #  id: 306
+  #  title: "Ushering in the New Era: 百花齊放: Almost 100 Blockchain STOs in USA"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [12]
+  #  #complexity: "Intermediate"
+  #-
+  #  id: 307
+  #  title: "主持人：李俊宏 (National Kaohsiung University of Science and Technology, Prof)"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: []
+  #  #complexity: "Intermediate"
 -
   id: 308
   title: "Panel of Token economic: Jason Hsu (Congressman at Taiwan),  Wang and Danny Deng (Chairman, Tai Could Technology)"
@@ -190,13 +190,13 @@
   subtype: presentation
   speakers: [20]
   #complexity: "Intermediate"
--
-  id: 310
-  title: "物聯網與區塊鏈的完美結合"
-  description: ""
-  subtype: presentation
-  speakers: [21]
-  #complexity: "Intermediate"
+  #-
+  #  id: 310
+  #  title: "物聯網與區塊鏈的完美結合"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [21]
+  #  #complexity: "Intermediate"
 -
   id: 311
   title: "區塊鏈技術圓桌論壇 Panel of Token economic"
@@ -219,12 +219,12 @@
   description: ""
   subtype: presentation
   speakers: [13]
--
-  id: 403
-  title: "Panel of AI computing Sean and Max conversation"
-  description: ""
-  subtype: presentation
-  speakers: [4,13]
+  #-
+  #  id: 403
+  #  title: "Panel of AI computing Sean and Max conversation"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [4,13]
 -
   id: 405
   title: "Introduction to NNEF for AI Framework"
@@ -233,13 +233,13 @@
   speakers: [14]
 -
   id: 406
-  title: "待確定"
+  title: "Formal Verification for Blockchain and Trusted Computing"
   description: ""
   subtype: presentation
   speakers: [26]
 -
   id: 407
-  title: "待確定"
+  title: "企業區塊鏈之應用實例與技術探討"
   description: ""
   subtype: presentation
   speakers: [9]
@@ -252,17 +252,24 @@
 
 -
   id: 409
-  title: "Panel of Blockchain computing: Wang and Steve conversation"
+  title: "Panel of Blockchain computing"
+  host: "主持人： Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)"
   description: ""
   subtype: presentation
-  speakers: [1,2]
+  speakers: [1,2,29,30]
 
+  #-
+  #  id: 410
+  #  title: "Panel of AI & Blockchain: Lai and Liang conversation"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [5,8]
 -
   id: 410
-  title: "Panel of AI & Blockchain: Lai and Liang conversation"
+  title: "Enhanced Privacy with Decentralized Identity"
   description: ""
   subtype: presentation
-  speakers: [5,8]
+  speakers: [32]
 -
   id: 411
   title: "Poster Session"
@@ -271,7 +278,7 @@
   speakers: []
 -
   id: 412
-  title: "Lightning talk and Poster Session"
+  title: "Lightning talks and Satoshi Nakamoto Award announcement"
   description: ""
   subtype: presentation
   speakers: []
@@ -281,6 +288,30 @@
   description: ""
   subtype: presentation
   speakers: [27]
+-
+  id: 414
+  title: "Parallel Session 1a: Computational photography and machine learning on Google's smartphones (Room 104 of CSIE Building)"
+  description: ""
+  subtype: presentation
+  speakers: [28]
+-
+  id: 415
+  title: "Parallel Session 1b: <br>
+  Support and Optimization with Rust for RISC-V Architectures, H. Lin, P. Chen, J. Lee, National Tsinghua University<br>
+  Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures, S. Fu and W. Hsu, National Taiwan University<br>
+   Automated Syntactic Refactoring, Y. Lee and Y. You, National Chiao-Tung University"
+  description: ""
+  subtype: presentation
+  speakers: []
+
+-
+  id: 416
+  title: "An Evaluation of Bitcoin Address Classification based on Transaction History Summarization"
+  description: ""
+  subtype: presentation
+  speakers: [31,1]
+
+
 
 
 -
@@ -290,16 +321,17 @@
   subtype: presentation
   speakers: [10]
 
--
-  id: 502
-  title: "區塊鏈對全球供應鏈生態系的影響及導入探討"
-  description: ""
-  subtype: presentation
-  speakers: [9] 
+  #-
+  #  id: 502
+  #  title: "區塊鏈對全球供應鏈生態系的影響及導入探討"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: [9] 
 
 -
   id: 503
-  title: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology) <br> 區塊鏈技術之企業應用與轉型"
+  title: "區塊鏈技術之企業應用與轉型"
+  host: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
   description: ""
   subtype: presentation
   speakers: [11] 
