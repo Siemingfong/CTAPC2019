@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2019-02-03 09:00:00
+date:   2020-02-03 09:00:00
 isStaticPost: false
 ---
-CTAPC 2019 will be held 25-26th of May in international city of Taipei. If you want to be part of this great event as a speaker you knocked at the good door.
+CTAPC 2020 will be held 22-23th of May in international city of Taipei. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the CTAP Conference?
 
@@ -38,8 +38,8 @@ __Blockchain Technology__
 * High-Performance Clustering Feature Structure
 
 
-#### Please submit your proposals [here](https://easychair.org/conferences/?conf=ctapc2019).
-__Deadline__ is May 1, 2019
+#### Please submit your proposals [here](https://easychair.org/conferences/?conf=ctapc2020).
+__Deadline__ is May 15, 2020
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 

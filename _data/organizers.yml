@@ -7,8 +7,8 @@
   elements: 
     - {name: "National Taiwan University", description: "NTU - the most prestigious comprehensive university in Taiwan and one of the top ranked universities in the world. ", link: "https://www.ntu.edu.tw/", imageUrl: "National_Taiwan_University_logo.png"}
     - {name: "APAC Blockchain Develpoment Association", description: "APAC Blockchain Development Association - Serve the non-profit social group with the aim of promoting the development of the blockchain in the Asia Pacific region", link: "https://apbcd.org/", imageUrl: "APAC-icon.png"}
-    - {name: "加上陽明山未來學社", description: "加上陽明山未來學社", link: "#", imageUrl: "future9980.png"}
-    - {name: "GS1 Taiwan", description: "GS1 Taiwan", link: "http://www.gs1tw.org/", imageUrl: "GS1-taiwan.png"}
+  #  - {name: "加上陽明山未來學社", description: "加上陽明山未來學社", link: "#", imageUrl: "future9980.png"}
+  #  - {name: "GS1 Taiwan", description: "GS1 Taiwan", link: "http://www.gs1tw.org/", imageUrl: "GS1-taiwan.png"}
       #- 
       #  group: ""
       #  elements: 

@@ -1,28 +1,28 @@
 -
-  date: "2019-04-26"
-  dateReadable: "April 26 <small><small>(Premiere Week)</small></small>"
-  day: "Week 1"
+  date: "2020-05-22"
+  dateReadable: "May 22 <small><small>(Premiere Week)</small></small>"
+  day: "day 1"
   tracks:
-      - {title: "台灣大學資訊工程系 102 教室", color: "#90be4e"}
+      - {title: "台灣資工德田館 102 教室", color: "#90be4e"}
   timeslots:
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [516]
-    }
-    - {
-        startTime: "19:30",
-        endTime: "21:00",
-        sessionIds: [509]
-    }
+    # - {
+    #     startTime: "",
+    #     endTime: "",
+    #     sessionIds: [516]
+    # }
+    # - {
+    #     startTime: "19:30",
+    #     endTime: "21:00",
+    #     sessionIds: [509]
+    # }
 
--
-  date: "2019-04-27"
-  dateReadable: "April 27"
-  day: "Week 1"
-  tracks:
-      - {title: "中山大學管理學院2037演講廳 下午場", color: "#90be4e"}
-  timeslots:
+# -
+#   date: "2019-04-27"
+#   dateReadable: "April 27"
+#   day: "Week 1"
+#   tracks:
+#       - {title: "中山大學管理學院2037演講廳 下午場", color: "#90be4e"}
+#   timeslots:
 #    - {
 #        startTime: "",
 #        endTime: "",
@@ -53,66 +53,66 @@
 #        endTime: "13:15",
 #        sessionIds: [103]
 #    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [504]
-    }
+    # - {
+    #     startTime: "",
+    #     endTime: "",
+    #     sessionIds: [504]
+    # }
     - {
         startTime: "13:30",
         endTime: "13:45",
         sessionIds: [505]
     }
-    - {
-        startTime: "13:45",
-        endTime: "14:00",
-        sessionIds: [507]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:15",
-        sessionIds: [513]
-    }
-    - {
-        startTime: "14:15",
-        endTime: "14:30",
-        sessionIds: [304]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [517]
-    }
-    - {
-        startTime: "14:30",
-        endTime: "14:45",
-        sessionIds: [515]
-    }
-    - {
-        startTime: "14:45",
-        endTime: "15:00",
-        sessionIds: [508]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:15",
-        sessionIds: [510]
-    }
-    - {
-        startTime: "15:15",
-        endTime: "15:30",
-        sessionIds: [511]
-    }
-    - {
-        startTime: "15:30",
-        endTime: "16:30",
-        sessionIds: [512]
-    }
+    # - {
+    #     startTime: "13:45",
+    #     endTime: "14:00",
+    #     sessionIds: [507]
+    # }
+    # - {
+    #     startTime: "14:00",
+    #     endTime: "14:15",
+    #     sessionIds: [513]
+    # }
+    # - {
+    #     startTime: "14:15",
+    #     endTime: "14:30",
+    #     sessionIds: [304]
+    # }
+    # - {
+    #     startTime: "",
+    #     endTime: "",
+    #     sessionIds: [517]
+    # }
+    # - {
+    #     startTime: "14:30",
+    #     endTime: "14:45",
+    #     sessionIds: [515]
+    # }
+    # - {
+    #     startTime: "14:45",
+    #     endTime: "15:00",
+    #     sessionIds: [508]
+    # }
+    # - {
+    #     startTime: "15:00",
+    #     endTime: "15:15",
+    #     sessionIds: [510]
+    # }
+    # - {
+    #     startTime: "15:15",
+    #     endTime: "15:30",
+    #     sessionIds: [511]
+    # }
+    # - {
+    #     startTime: "15:30",
+    #     endTime: "16:30",
+    #     sessionIds: [512]
+    # }
 
 -
-  date: "2019-05-03"
-  dateReadable: "May 3"
-  day: "Week 2"
+  date: "2020-05-23"
+  dateReadable: "May 23"
+  day: "day 2"
   tracks:
       - {title: "台大資工德田館 102 教室", color: "#90be4e"}
   timeslots:
@@ -121,241 +121,266 @@
         endTime: "21:00",
         sessionIds: [601]
     }
--
-  date: "2019-05-10"
-  dateReadable: "May 10"
-  day: "Week 3"
-  tracks:
-      - {title: "台大資工德田館 102 教室", color: "#90be4e"}
-  timeslots:
-    - {
-        startTime: "18:30",
-        endTime: "21:00",
-        sessionIds: [602]
-    }
--
-  date: "2019-05-17"
-  dateReadable: "May 17"
-  day: "Week 4"
-  tracks:
-      - {title: "台大資工德田館 102 教室", color: "#90be4e"}
-  timeslots:
-    - {
-        startTime: "18:30",
-        endTime: "21:00",
-        sessionIds: [603]
-    }
+# -
+#   date: "2019-05-10"
+#   dateReadable: "May 10"
+#   day: "Week 3"
+#   tracks:
+#       - {title: "台大資工德田館 102 教室", color: "#90be4e"}
+#   timeslots:
+#     - {
+#         startTime: "18:30",
+#         endTime: "21:00",
+#         sessionIds: [602]
+#     }
+# -
+#   date: "2019-05-17"
+#   dateReadable: "May 17"
+#   day: "Week 4"
+#   tracks:
+#       - {title: "台大資工德田館 102 教室", color: "#90be4e"}
+#   timeslots:
+#     - {
+#         startTime: "18:30",
+#         endTime: "21:00",
+#         sessionIds: [603]
+#     }
 
--
-  date: "2019-05-24"
-  dateReadable: "May 24"
-  day: "Week 5"
-  tracks: 
-    - {title: "台大電資學院博理館 101 講堂", color: "#90be4e"}
-  timeslots:
-    - {
-        startTime: "08:30",
-        endTime: "09:10",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "09:10",
-        endTime: "09:20",
-        sessionIds: [106]
-    }
-    - {
-        startTime: "09:20",
-        endTime: "10:30",
-        sessionIds: [401]
-        # facebook talk
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:40",
-        sessionIds: [414]
-        # Computational photography
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:40",
-        sessionIds: [415]
-        # Parallel Session
-    }
-    - {
-        startTime: "11:40",
-        endTime: "11:50",
-        sessionIds: [412]
-    }
-    - {
-        startTime: "11:50",
-        endTime: "13:15",
-        sessionIds: [103]
-    }
-    - {
-        startTime: "13:15",
-        endTime: "14:00",
-        sessionIds: [402]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:45",
-        sessionIds: [407]
-    }
-    - {
-        startTime: "14:45",
-        endTime: "15:10",
-        sessionIds: [107]
-    }
-    - {
-        startTime: "15:10",
-        endTime: "15:50",
-        sessionIds: [405]
-    }
-    - {
-        startTime: "15:50",
-        endTime: "16:30",
-        sessionIds: [416]
-    }
-    - {
-        startTime: "16:30",
-        endTime: "17:10",
-        sessionIds: [406]
-    }
-    - {
-        startTime: "17:45",
-        endTime: "20:00",
-        sessionIds: [108]
-    }
+# -
+#   date: "2019-05-24"
+#   dateReadable: "May 24"
+#   day: "Week 5"
+#   tracks: 
+#     - {title: "台大電資學院博理館 101 講堂", color: "#90be4e"}
+#   timeslots:
+#     - {
+#         startTime: "08:30",
+#         endTime: "09:10",
+#         sessionIds: [101]
+#     }
+#     - {
+#         startTime: "09:10",
+#         endTime: "09:20",
+#         sessionIds: [106]
+#     }
+#     - {
+#         startTime: "09:20",
+#         endTime: "10:30",
+#         sessionIds: [401]
+#         # facebook talk
+#     }
+#     - {
+#         startTime: "10:30",
+#         endTime: "11:40",
+#         sessionIds: [414]
+#         # Computational photography
+#     }
+#     - {
+#         startTime: "10:30",
+#         endTime: "11:40",
+#         sessionIds: [415]
+#         # Parallel Session
+#     }
+#     #    - {
+#     #        startTime: "11:40",
+#     #        endTime: "11:50",
+#     #        sessionIds: [412]
+#     #    }
+#     - {
+#         startTime: "11:40",
+#         endTime: "13:15",
+#         sessionIds: [103]
+#     }
+#     - {
+#         startTime: "13:15",
+#         endTime: "14:00",
+#         sessionIds: [402]
+#     }
+#     - {
+#         startTime: "14:00",
+#         endTime: "14:45",
+#         sessionIds: [407]
+#     }
+#     - {
+#         startTime: "14:45",
+#         endTime: "15:10",
+#         sessionIds: [107]
+#     }
+#     - {
+#         startTime: "15:10",
+#         endTime: "15:50",
+#         sessionIds: [405]
+#     }
+#     - {
+#         startTime: "15:50",
+#         endTime: "16:30",
+#         sessionIds: [406]
+#     }
+#     - {
+#         startTime: "16:30",
+#         endTime: "17:10",
+#         sessionIds: [416]
+#     }
+#     - {
+#         startTime: "17:45",
+#         endTime: "20:20",
+#         sessionIds: [108]
+#     }
+#     - {
+#         startTime: "19:00",
+#         endTime: "20:20",
+#         sessionIds: [413]
+#     }
 
 
-- 
-  date: "2019-05-25"
-  dateReadable: "May 25"
-  day: "Week 5"
-  tracks: 
-    - {title: "台大資工德田館", color: "#90be4e"}
-      #    - {title: "Token", color: "#03a9f4"}
-      #    - {title: "Artiticial Intelligence", color: "#e91e63"}
-  timeslots:
-    - {
-        startTime: "08:30",
-        endTime: "09:10",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "09:10",
-        endTime: "10:10",
-        sessionIds: [408]
-    }
-    - {
-        startTime: "10:10",
-        endTime: "12:00",
-        sessionIds: [409]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "13:10",
-        sessionIds: [103]
-    }
-    - {
-        startTime: "13:10",
-        endTime: "14:10",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "14:10",
-        endTime: "15:10",
-        sessionIds: [002]
-    }
-    - {
-        startTime: "15:10",
-        endTime: "15:20",
-        sessionIds: [105]
-    }
-    - {
-        startTime: "15:20",
-        endTime: "16:00",
-        sessionIds: [410]
-    }
+# - 
+#   date: "2019-05-25"
+#   dateReadable: "May 25"
+#   day: "Week 5"
+#   tracks: 
+#     - {title: "台大資工德田館 103 教室", color: "#90be4e"}
+#       #    - {title: "Token", color: "#03a9f4"}
+#       #    - {title: "Artiticial Intelligence", color: "#e91e63"}
+#   timeslots:
+#     - {
+#         startTime: "08:30",
+#         endTime: "09:10",
+#         sessionIds: [101]
+#     }
+#     - {
+#         startTime: "09:10",
+#         endTime: "10:10",
+#         sessionIds: [408]
+#     }
+#     - {
+#         startTime: "10:10",
+#         endTime: "11:50",
+#         sessionIds: [409]
+#     }
+#     - {
+#         startTime: "10:50",
+#         endTime: "11:50",
+#         sessionIds: [417]
+#     }
+#     - {
+#         startTime: "11:50",
+#         endTime: "13:10",
+#         sessionIds: [103]
+#     }
+#     - {
+#         startTime: "13:10",
+#         endTime: "13:55",
+#         sessionIds: [001]
+#     }
+#     - {
+#         startTime: "13:55",
+#         endTime: "14:40",
+#         sessionIds: [002]
+#     }
+#     - {
+#         startTime: "14:40",
+#         endTime: "15:00",
+#         sessionIds: [105]
+#     }
+#     - {
+#         startTime: "15:00",
+#         endTime: "15:40",
+#         sessionIds: [410]
+#     }
+#     - {
+#         startTime: "15:40",
+#         endTime: "16:20",
+#         sessionIds: [006]
+#     }
+#     - {
+#         startTime: "16:20",
+#         endTime: "16:40",
+#         sessionIds: [013]
+#     }
+#     - {
+#         startTime: "16:40",
+#         endTime: "17:20",
+#         sessionIds: [014]
+#     }
 
-- 
-  date: "2019-05-26"
-  dateReadable: "May 26"
-  day: "Week 5"
-  tracks: 
-    - {title: "上午場", color: "#90be4e"}
-      #    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-        startTime: "08:30",
-        endTime: "09:00",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "09:00",
-        endTime: "09:30",
-        sessionIds: [006]
-    }
-    - {
-        startTime: "09:30",
-        endTime: "10:00",
-        sessionIds: [007]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "11:00",
-        sessionIds: [105]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:30",
-        sessionIds: [411]
-    }
+    #- 
+    #  date: "2019-05-26"
+    #  dateReadable: "May 26"
+    #  day: "Week 5"
+    #  tracks: 
+    #    - {title: "上午場", color: "#90be4e"}
+    #      #    - {title: "Web & Cloud", color: "#03a9f4"}
+    #  timeslots: 
+    #    - {
+    #        startTime: "08:30",
+    #        endTime: "09:00",
+    #        sessionIds: [101]
+    #    }
+    #    - {
+    #        startTime: "09:00",
+    #        endTime: "09:30",
+    #        sessionIds: [006]
+    #    }
+    #    - {
+    #        startTime: "09:30",
+    #        endTime: "10:00",
+    #        sessionIds: [007]
+    #    }
+    #    - {
+    #        startTime: "10:00",
+    #        endTime: "11:00",
+    #        sessionIds: [105]
+    #    }
+    #    - {
+    #        startTime: "11:00",
+    #        endTime: "11:30",
+    #        sessionIds: [411]
+    #    }
 
-- 
-  date: "2019-05-26"
-  dateReadable: "May 26"
-  day: "Week 5"
-  tracks: 
-    - {title: "君鴻酒店41F宴會廳 下午場", color: "#90be4e"}
-  timeslots: 
-    - {
-        startTime: "13:00",
-        endTime: "13:30",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [301]
-    }
-    - {
-        startTime: "14:10",
-        endTime: "14:20",
-        sessionIds: [701]
-    }
-    - {
-        startTime: "14:20",
-        endTime: "14:50",
-        sessionIds: [308]
-    }
-    - {
-        startTime: "14:50",
-        endTime: "15:05",
-        sessionIds: [107]
-    }
-    - {
-        startTime: "15:10",
-        endTime: "15:25",
-        sessionIds: [302]
-    }
-    - {
-        startTime: "15:25",
-        endTime: "15:55",
-        sessionIds: [702]
-    }
-    - {
-        startTime: "15:55",
-        endTime: "16:25",
-        sessionIds: [311]
-    }
+# - 
+#   date: "2019-05-26"
+#   dateReadable: "May 26"
+#   day: "Week 5"
+#   tracks: 
+#     - {title: "君鴻酒店41F宴會廳 下午場", color: "#90be4e"}
+#   timeslots: 
+#     - {
+#         startTime: "13:00",
+#         endTime: "13:30",
+#         sessionIds: [101]
+#     }
+#     - {
+#         startTime: "",
+#         endTime: "",
+#         sessionIds: [301]
+#     }
+#     - {
+#         startTime: "14:10",
+#         endTime: "14:20",
+#         sessionIds: [701]
+#     }
+#     - {
+#         startTime: "14:20",
+#         endTime: "14:50",
+#         sessionIds: [308]
+#     }
+#     - {
+#         startTime: "14:50",
+#         endTime: "15:05",
+#         sessionIds: [107]
+#     }
+#     - {
+#         startTime: "15:10",
+#         endTime: "15:25",
+#         sessionIds: [302]
+#     }
+#     - {
+#         startTime: "15:25",
+#         endTime: "15:55",
+#         sessionIds: [702]
+#     }
+#     - {
+#         startTime: "15:55",
+#         endTime: "16:25",
+#         sessionIds: [311]
+#     }

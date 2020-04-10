@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "CTAPC 2019"
+title: "CTAPC 2020"
 email: "apacbcd@gmail.com"
-description: "CTAPC is a set of blockchain events all around the world"
+description: "CTA Platform Conference (CTAPC) positions itself as Taiwan’s premier conference on AI system (with special focus on Coronavirus in 2020; See cs372.stanford.edu)."
 baseurl: ""
 # url: "https://gdg-x.github.io"
 url: "https://ctapc.csie.ntu.edu.tw/"
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
-c4pUrl: "https://easychair.org/conferences/?conf=ctapc2019"
+c4pUrl: "https://easychair.org/conferences/?conf=ctapc2020"
 # TODO
 # c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 c4sponsorsUrl: "/sponsor"
@@ -54,25 +54,25 @@ navigationLinks:
  - {permalink: "/sponsor/", text: "Sponsor"}
    # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
+ - {link: "https://easychair.org/conferences/?conf=ctapc2020", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
+ - {link: "https://easychair.org/conferences/?conf=ctapc2020", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "CTAPC <typeout> 2019"
-#eventDate: "May 25 - 26, 2019"
-eventDate: "April 26 to 27 and May 3, 10, 17, 24 to 26"
-#typeoutTextValues: '"", "Chain", "Token", "Artificial Intelligence", "Platform", "Conference"'
+heroTitle: "CTAPC <typeout>"
+eventDate: "May 22 - 23, 2020"
+#eventDate: "April 26 to 27 and May 3, 10, 17, 24 to 26"
+typeoutTextValues: '"", "Computing", "Technology", "AI", "Platform", "Conference"'
 #typeoutTextValues: '"", "Chain", "Token", "AI"'
 typeoutFallback: "NTU"
 heroButtons:
- - {link: "https://easychair.org/conferences/?conf=ctapc2019", text: "Become a speaker"}
+ - {link: "https://easychair.org/conferences/?conf=ctapc2020", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
    # - {link: "/sponsor", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "About CTAPC 2019"
+aboutTitle: "About CTAPC 2020"
 aboutBlock:
  - {title: "Chain", image: "chain.jpg", text: "Blockchain is bringing about a major transformation in the financial sector. It is a global phenomenon — in fact banks and fintech companies in India are applying a test and scale approach to blockchain technology in a controlled environment." }
  - {title: "Token", image: "token.jpg", text: "Ethereum has already established itself as the most popular DApp platform, attracting massive amounts of developers thanks to its support for an easy-to-use programming language, Solidity, as well as a bevy of ICOs with ERC-20 tokens. It also boasts the most functional use cases of any crypto project in history, with more DApps coming to its mainnet each week." }
@@ -97,7 +97,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "國立臺灣大學 & 國立中山大學"
+eventLocationName: "國立臺灣大學"
 eventLocationLink: "https://www.csie.ntu.edu.tw/"
 eventStreetAddress: "No. 170, Sec. 2, Xinhai Rd."
 eventAddressLocality: "NTU"

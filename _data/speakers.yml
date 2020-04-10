@@ -10,53 +10,54 @@
   social:
     - {name: "website", link: "https://www.csie.ntu.edu.tw/~liao/"}
 
--
-  id: 2
-  name: "Dr. Jiaping Wang 王嘉平"
-  surname: ""
-  company: "Head of InnovationWorks"
-  title: ""
-  bio: ""
-  thumbnailUrl: Jiaping.jpg
-  rockstar: true
-  social:
-    - {name: "website", link: "http://jiapingwang.com/"}
+# -
+#   id: 2
+#   name: "Dr. Jiaping Wang 王嘉平"
+#   surname: ""
+#   company: "Head of InnovationWorks"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: Jiaping.jpg
+#   rockstar: true
+#   social:
+#     - {name: "website", link: "http://jiapingwang.com/"}
 
--
-  id: 3
-  name: "Minako"
-  surname: "Kojima"
-  company: "Andoromeda"
-  title: "CEO"
-  bio: "CEO of Andoromeda, Xooger, Serial Entrepreneur, Cofounder of Gpool, ACM/ICPC Asia Regional Gold Medal,, Microsoft Beauty of Programming 2015 Champion"
-  thumbnailUrl: MinakoKojima.jpg
-  rockstar: true
-  social:
-    - {name: "website", link: ""}
+# -
+#   id: 3
+#   name: "Minako"
+#   surname: "Kojima"
+#   company: "Andoromeda"
+#   title: "CEO"
+#   bio: "CEO of Andoromeda, Xooger, Serial Entrepreneur, Cofounder of Gpool, ACM/ICPC Asia Regional Gold Medal,, Microsoft Beauty of Programming 2015 Champion"
+#   thumbnailUrl: MinakoKojima.jpg
+#   rockstar: true
+#   social:
+#     - {name: "website", link: ""}
 
--
-  id: 4
-  name: "Dr. Sean"
-  surname: "Lee"
-  company: "Facebook USA"
-  title: "Head, AI infrastructure"
-  bio: ""
-  thumbnailUrl: Sean.jpg
-  rockstar: true
-  social:
-    - {name: "website", link: ""}
+# -
+#   id: 4
+#   name: "Dr. Sean"
+#   surname: "Lee"
+#   company: "Facebook USA"
+#   title: "Head, AI infrastructure"
+#   bio: ""
+#   thumbnailUrl: Sean.jpg
+#   rockstar: true
+#   social:
+#     - {name: "website", link: ""}
 
--
-  id: 5
-  name: "Dr. Bor-sung"
-  surname: "Liang"
-  company: "Mediatek"
-  title: "Chief Technology Consultant"
-  bio: ""
-  thumbnailUrl: BorSungLiang.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
+# -
+#   id: 5
+#   name: "Dr. Bor-sung"
+#   surname: "Liang"
+#   company: "Mediatek"
+#   title: "Chief Technology Consultant, IDBG"
+#   bio: ""
+#   thumbnailUrl: BorSungLiang.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
 #-
 #  id: 6
 #  name: "Dr. Ansel"
@@ -68,6 +69,7 @@
 #  rockstar: false
 #  social:
 #    - {name: "website", link: ""}
+
 #-
 #  id: 7
 #  name: "Dr. Eric"
@@ -80,139 +82,144 @@
 #  social:
 #    - {name: "website", link: ""}
 
--
-  id: 8
-  name: "Dr. Shang-Hong"
-  surname: "Lai"
-  company: "Microsoft"
-  title: "Principal Researcher"
-  bio: ""
-  thumbnailUrl: ShangHongLai.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 9
-  name: "Jacky Hsu 徐文暉"
-  surname: ""
-  company: "IBM"
-  title: "CTO"
-  bio: "徐文暉先生擔任台灣 IBM 公司技術長（Chief Technology Officer, CTO）暨業務副總經理（Enterprise Business Unit Technical Sales Executive），協助推動包含認知運算（Cognitive Computing）、物聯網（Internet of Things），以及區塊鏈（Blockchain）相關新興技術和業務推廣技術支援等。徐文暉在協助客戶設計資訊系統架構、軟硬體產品技術支援、網路服務管理等專案中擁有豐富經驗。<br>
-徐文暉先生於 1991年加入台灣 IBM 公司，負責硬體 AS400 伺服器（iSeries）工程師一職，期間協助客戶 iSeries 伺服器的相關軟硬體設備維護，並於 1999年擔任台灣 IBM 高雄分公司主管一職，負責推廣中南部的資訊服務業務。2003年，徐文暉任職資訊服務經理一職，負責台灣伺服器和儲存設備產品支援服務以及業務技術支援。2005年，升任大中華區技術支援服務部門主管，負責新解決方案的業務推廣、技術支援，以及多品牌業務服務（Multi-Vendor Services）。<br>
-2010年起，徐文暉升任亞太區暨全球技術支援服務（Technical Support Services）副總經理，業務支援範圍涵蓋大中華區、日本、韓國、澳洲、紐西蘭、東南亞等地，同時帶領美國 Raleigh Research Triangle Park（RTP）和台灣南港伺服器研發團隊，負責伺服器全球服務規劃和品牌推廣等事宜。2014年，返回台灣 IBM 公司擔任客戶技術架構部門副總經理一職，協助客戶架構企業資訊系統規劃等相關業務。<br>
-徐文暉曾兩度獲得 IBM 全球最佳業務 Golden Circle 獎項，其擁有淡江大學電子工程學士學位。 "
-  thumbnailUrl: jacky.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
+# -
+#   id: 8
+#   name: "Dr. Shang-Hong"
+#   surname: "Lai"
+#   company: "Microsoft"
+#   title: "Principal Researcher"
+#   bio: ""
+#   thumbnailUrl: ShangHongLai.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 9
+#   name: "Jacky Hsu 徐文暉"
+#   surname: ""
+#   company: "IBM"
+#   title: "CTO"
+#   bio: "徐文暉先生擔任台灣 IBM 公司技術長（Chief Technology Officer, CTO）暨業務副總經理（Enterprise Business Unit Technical Sales Executive），協助推動包含認知運算（Cognitive Computing）、物聯網（Internet of Things），以及區塊鏈（Blockchain）相關新興技術和業務推廣技術支援等。徐文暉在協助客戶設計資訊系統架構、軟硬體產品技術支援、網路服務管理等專案中擁有豐富經驗。<br>
+# 徐文暉先生於 1991年加入台灣 IBM 公司，負責硬體 AS400 伺服器（iSeries）工程師一職，期間協助客戶 iSeries 伺服器的相關軟硬體設備維護，並於 1999年擔任台灣 IBM 高雄分公司主管一職，負責推廣中南部的資訊服務業務。2003年，徐文暉任職資訊服務經理一職，負責台灣伺服器和儲存設備產品支援服務以及業務技術支援。2005年，升任大中華區技術支援服務部門主管，負責新解決方案的業務推廣、技術支援，以及多品牌業務服務（Multi-Vendor Services）。<br>
+# 2010年起，徐文暉升任亞太區暨全球技術支援服務（Technical Support Services）副總經理，業務支援範圍涵蓋大中華區、日本、韓國、澳洲、紐西蘭、東南亞等地，同時帶領美國 Raleigh Research Triangle Park（RTP）和台灣南港伺服器研發團隊，負責伺服器全球服務規劃和品牌推廣等事宜。2014年，返回台灣 IBM 公司擔任客戶技術架構部門副總經理一職，協助客戶架構企業資訊系統規劃等相關業務。<br>
+# 徐文暉曾兩度獲得 IBM 全球最佳業務 Golden Circle 獎項，其擁有淡江大學電子工程學士學位。 "
+#   thumbnailUrl: jacky.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 10
+#   name: "許孟祥"
+#   surname: ""
+#   company: "National Kaohsiung University of Science and Technology"
+#   title: "Distinguished Professor"
+#   bio: "高雄第一科技大學 副校長、管理學院院長、研發長、主任秘書、圖書資訊館館長"
+#   thumbnailUrl: xms.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 11
+#   name: "Dr. 林慶達"
+#   surname: ""
+#   company: "Information and Communications Research Laboratories of Industrial Technology Research Institute"
+#   #title: ""
+#   #bio: ""
+#   thumbnailUrl: lqd.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 12
+#   name: "Dr. Iceberg"
+#   surname: "Fu"
+#   company: "Industry Wave, CA, USA"
+#   #title: ""
+#   #bio: ""
+#   thumbnailUrl: Iceberg.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 13
+#   name: "Dr. Ming-Yu Hung 洪明郁"
+#   surname: ""
+#   company: "MediaTek"
+#   title: "Dept. Manager"
+#   #bio: ""
+#   thumbnailUrl: MingYu.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 14
+#   name: "Dr. Ssu-Hsuan"
+#   surname: "Lu"
+#   #company: ""
+#   #title: ""
+#   bio: "Dr. Lu currently is working in the PeakHills Group. Dr. Lu earned her PhD degree in Computer Science from National Tsing Hua University in 2014, and received her Master and Bachelor degree in Information Management from Providence University in 2002 and 2005, respectively. Prior to join PeakHills Group as a staff, Dr. Lu worked in National Chiao Tung University (NCTU) and had intern in Institute for Information Industry. Her research has involved a wide range of topics related to parallel and distributed processing, peer-to-peer computing, healthcare, software-defined networking, etc. In particularly, she is currently interested in Deep Learning, AI compiler, and Neural Network frameworks."
+#   thumbnailUrl: lsh.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 15
+#   name: "Dr. 林盟翔"
+#   surname: ""
+#   company: "Ming Chuan University"
+#   title: "Professor"
+#   bio: "銘傳大學財金法律學系與金融科技學院合聘專任副教授、金融科技應用學士學位學程主任林盟翔是國立臺北大學法學博士，從事法律、金融、財經、文創跨領域理論與實務研究。亞太區塊鏈協會顧問、虛擬通貨交易所自律公約（SRG）起草人、中華民國儲蓄互助社及互助社協會信託顧問、Raphael 拉斐爾反洗錢諮詢顧問有限公司顧問、中華民國人壽保險商業同業公會人身保險業務員申訴委員會委員、消費者文教基金會金融保險委員會委員、法務部《信託法》研修小組研究員、行政院原住民族委員會「原住民族發展綱要第1期計畫」起草小組委員，行政院原住民族委員會「原住民族互助金庫條例草案」立法顧問團顧問。"
+#   thumbnailUrl: lms.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 16
+#   name: "Jesse Knutson 江旭昇"
+#   surname: ""
+#   company: "Maicoin"
+#   title: "Director of Institutional Sales and Marketing"
+#   bio: "先前為麥格理台灣股權資本業務負責人。在加入麥格理之前，Jesse 曾在巴克萊、元大及永豐服務，並且擁有股權資本市場、數據分析及交易背景。"
+#   thumbnailUrl: Jesse.jpg 
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 17
+#   name: "Joanna Tien 田智娟"
+#   surname: ""
+#   company: "PSIM"
+#   title: "Director"
+#   #bio: ""
+#   thumbnailUrl: Joanna.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 18
+#   name: "Bryan"
+#   surname: "Cheng"
+#   company: "LeadBest"
+#   title: "CPO"
+#   bio: "LeadBest Consulting Group 產品長暨區塊鏈事業部<br>
+# 為知名產品開發與區塊鏈應用策略顧問，協助傳統產業賦能區塊鏈技術升級。 十年以上產品開發運營經驗、超過6年區塊鏈產業運營與投資經驗。 常受邀至各大知名公司團體分享全球區塊鏈技術、投資、產業發展趨勢，如KPMG、中華開發金控、廣達集團、AppWorks、鉅亨網、台北金融研究發展基金會、AngelHack、Startup Grind(Google for Entrepreneurs)、JumpStart、扶輪社、扶青團等等。"
+#   thumbnailUrl: Bryan.jpg 
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
 
 -
-  id: 10
-  name: "許孟祥"
-  surname: ""
-  company: "National Kaohsiung University of Science and Technology"
-  title: "Distinguished Professor"
-  bio: "高雄第一科技大學 副校長、管理學院院長、研發長、主任秘書、圖書資訊館館長"
-  thumbnailUrl: xms.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
-
--
-  id: 11
-  name: "Dr. 林慶達"
-  surname: ""
-  company: "Information and Communications Research Laboratories of Industrial Technology Research Institute"
-  #title: ""
-  #bio: ""
-  thumbnailUrl: lqd.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
-
--
-  id: 12
-  name: "Dr. Iceberg"
-  surname: "Fu"
-  company: "Industry Wave, CA, USA"
-  #title: ""
-  #bio: ""
-  thumbnailUrl: Iceberg.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
-
--
-  id: 13
-  name: "Dr. Ming-Yu Hung 洪明郁"
-  surname: ""
-  company: "MediaTek"
-  title: "Dept. Manager"
-  #bio: ""
-  thumbnailUrl: MingYu.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
-
--
-  id: 14
-  name: "Dr. Ssu-Hsuan"
-  surname: "Lu"
-  #company: ""
-  #title: ""
-  bio: "Dr. Lu currently is working in the PeakHills Group. Dr. Lu earned her PhD degree in Computer Science from National Tsing Hua University in 2014, and received her Master and Bachelor degree in Information Management from Providence University in 2002 and 2005, respectively. Prior to join PeakHills Group as a staff, Dr. Lu worked in National Chiao Tung University (NCTU) and had intern in Institute for Information Industry. Her research has involved a wide range of topics related to parallel and distributed processing, peer-to-peer computing, healthcare, software-defined networking, etc. In particularly, she is currently interested in Deep Learning, AI compiler, and Neural Network frameworks."
-  thumbnailUrl: lsh.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
-
--
-  id: 15
-  name: "Dr. 林盟翔"
-  surname: ""
-  company: "Ming Chuan University"
-  title: "Professor"
-  bio: "銘傳大學財金法律學系與金融科技學院合聘專任副教授、金融科技應用學士學位學程主任林盟翔是國立臺北大學法學博士，從事法律、金融、財經、文創跨領域理論與實務研究。亞太區塊鏈協會顧問、虛擬通貨交易所自律公約（SRG）起草人、中華民國儲蓄互助社及互助社協會信託顧問、Raphael 拉斐爾反洗錢諮詢顧問有限公司顧問、中華民國人壽保險商業同業公會人身保險業務員申訴委員會委員、消費者文教基金會金融保險委員會委員、法務部《信託法》研修小組研究員、行政院原住民族委員會「原住民族發展綱要第1期計畫」起草小組委員，行政院原住民族委員會「原住民族互助金庫條例草案」立法顧問團顧問。"
-  thumbnailUrl: lms.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 16
-  name: "Jesse Knutson 江旭昇"
-  surname: ""
-  company: "Maicoin"
-  title: "Director of Institutional Sales and Marketing"
-  bio: "先前為麥格理台灣股權資本業務負責人。在加入麥格理之前，Jesse 曾在巴克萊、元大及永豐服務，並且擁有股權資本市場、數據分析及交易背景。"
-  thumbnailUrl: Jesse.jpg 
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 17
-  name: "Joanna Tien 田智娟"
-  surname: ""
-  company: "PSIM"
-  title: "Director"
-  #bio: ""
-  thumbnailUrl: Joanna.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 18
-  name: "Bryan"
-  surname: "Cheng"
-  company: "LeadBest"
-  title: "CPO"
-  bio: "LeadBest Consulting Group 產品長暨區塊鏈事業部<br>
-為知名產品開發與區塊鏈應用策略顧問，協助傳統產業賦能區塊鏈技術升級。 十年以上產品開發運營經驗、超過6年區塊鏈產業運營與投資經驗。 常受邀至各大知名公司團體分享全球區塊鏈技術、投資、產業發展趨勢，如KPMG、中華開發金控、廣達集團、AppWorks、鉅亨網、台北金融研究發展基金會、AngelHack、Startup Grind(Google for Entrepreneurs)、JumpStart、扶輪社、扶青團等等。"
-  thumbnailUrl: Bryan.jpg 
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 19
+  id: 2
   name: "Sway Teng 鄧萬偉"
   surname: ""
   company: "STAR BIT"
@@ -224,30 +231,31 @@ STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX�
   rockstar: false
   social:
     - {name: "website", link: ""}
+
+# -
+#   id: 20
+#   name: "William"
+#   surname: "Wei"
+#   company: "Veridium Labs"
+#   title: "Ex CEO"
+#   #bio: ""
+#   thumbnailUrl: William.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+# -
+#   id: 21
+#   name: "Dr. 梁賓先"
+#   surname: ""
+#   company: "TIOTA"
+#   title: "Chairman"
+#   #bio: ""
+#   thumbnailUrl: lbx.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
 -
-  id: 20
-  name: "William"
-  surname: "Wei"
-  company: "Veridium Labs"
-  title: "Ex CEO"
-  #bio: ""
-  thumbnailUrl: William.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 21
-  name: "Dr. 梁賓先"
-  surname: ""
-  company: "TIOTA"
-  title: "Chairman"
-  #bio: ""
-  thumbnailUrl: lbx.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 22
+  id: 3
   name: "David Pan 潘奕彰"
   surname: ""
   company: "ACE 加速器"
@@ -257,19 +265,21 @@ STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX�
   rockstar: false
   social:
     - {name: "website", link: ""}
+
+# -
+#   id: 23
+#   name: "Michael"
+#   surname: "Chen"
+#   company: "Asia Blockchain Accelerator"
+#   title: "Head of Business Development"
+#   #bio: ""
+#   thumbnailUrl: MichaelChen.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
 -
-  id: 23
-  name: "Michael"
-  surname: "Chen"
-  company: "Asia Blockchain Accelerator"
-  title: "Head of Business Development"
-  #bio: ""
-  thumbnailUrl: MichaelChen.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 24
+  id: 4
   name: "MingYang Chih 池明洋"
   surname: ""
   company: "CHELPIS"
@@ -285,30 +295,33 @@ Chelpis focus on blockchain ledger application and token economy system now. The
   social:
     - {name: "site", link: "https://chelpis.com"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/my-chih/#experience-section"}
+
+# -
+#   id: 25
+#   name: "Nick"
+#   surname: "Chang"
+#   company: "MaiCoin"
+#   title: "General Manager"
+#   bio: "Nick畢業於美國普渡大學(Purdue University)並擁有電機學士學位。在加入MaiCoin之前，他曾在矽谷從事商務開發，服務於台達電與國巨。"
+#   thumbnailUrl: Nick.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 26
+#   name: "Dr. Jserv 黃敬群"
+#   surname: ""
+#   company: "National Cheng Kung University"
+#   title: "Professor"
+#   bio: "黃敬群 (Jim Huang)，網路慣用暱稱為 \"jserv\"。參與過若干世界級的開放原始碼專案，如 Android Open Source Project, GCC, LXDE。過去服務於消費性電子產品、IC 設計與工業自動化等領域，專注作業系統、編譯器、虛擬機器等技術議題。"
+#   thumbnailUrl: Jserv.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
 -
-  id: 25
-  name: "Nick"
-  surname: "Chang"
-  company: "MaiCoin"
-  title: "General Manager"
-  bio: "Nick畢業於美國普渡大學(Purdue University)並擁有電機學士學位。在加入MaiCoin之前，他曾在矽谷從事商務開發，服務於台達電與國巨。"
-  thumbnailUrl: Nick.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 26
-  name: "Dr. Jserv 黃敬群"
-  surname: ""
-  company: "National Cheng Kung University"
-  title: "Professor"
-  bio: "黃敬群 (Jim Huang)，網路慣用暱稱為 \"jserv\"。參與過若干世界級的開放原始碼專案，如 Android Open Source Project, GCC, LXDE。過去服務於消費性電子產品、IC 設計與工業自動化等領域，專注作業系統、編譯器、虛擬機器等技術議題。"
-  thumbnailUrl: Jserv.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 27
+  id: 5
   name: "Po-Chun"
   surname: "Kuo"
   company: "Cobinhood & Dexon Foundation"
@@ -318,73 +331,78 @@ Chelpis focus on blockchain ledger application and token economy system now. The
   rockstar: false
   social:
     - {name: "website", link: ""}
+
+# -
+#   id: 28
+#   name: "Dr. Marc"
+#   surname: "Levoy"
+#   company: "Google Research"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: Marc.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 29
+#   name: "Dr. 方元沂"
+#   surname: ""
+#   company: "文化大學法律學系教授兼學務長"
+#   title: ""
+#   bio: "最高學歷<br>
+# 美國伊利諾伊大學香檳校區法學博士<br>
+# (Juris Doctor with Magna Cum Laude)<br>
+# 經歷<br>
+# 1      中國文化大學學生事務處學務長<br>
+# 2      國立台北大學法學院法律系兼任教授<br>
+# 3      美國紐約州執業律師(Attorney at Law, New York)<br>
+# 4      私校退撫儲金管理會法律顧問<br>
+# 5      奧丁丁集團法律顧問<br>
+# 6      中華民國仲裁協會仲裁人<br>
+# 7      考試院國家考試典試、命題、閱卷委員<br>
+# 8      中國文化大學法律系財經組主任<br>
+# 9      證券櫃檯買賣中心上櫃審查委員<br>
+# 10    公司法全盤修法委員會社會企業議題負責人<br>
+# 11    行政院國家發展委員會訴願審議委員會委員"
+#   thumbnailUrl: fyy.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
+# -
+#   id: 30
+#   name: "陳奕甫"
+#   surname: ""
+#   company: "KPMG台灣加密資產與代幣經濟服務小組營運總監、銘傳大學金融科技學院兼任講師"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: cyf.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
+
 -
-  id: 28
-  name: "Dr. Marc"
-  surname: "Levoy"
-  company: "Google Research"
-  title: ""
-  bio: ""
-  thumbnailUrl: Marc.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 29
-  name: "Dr. 方元沂"
-  surname: ""
-  company: "文化大學法律學系教授兼學務長"
-  title: ""
-  bio: "最高學歷<br>
-美國伊利諾伊大學香檳校區法學博士<br>
-(Juris Doctor with Magna Cum Laude)<br>
-經歷<br>
-1      中國文化大學學生事務處學務長<br>
-2      國立台北大學法學院法律系兼任教授<br>
-3      美國紐約州執業律師(Attorney at Law, New York)<br>
-4      私校退撫儲金管理會法律顧問<br>
-5      奧丁丁集團法律顧問<br>
-6      中華民國仲裁協會仲裁人<br>
-7      考試院國家考試典試、命題、閱卷委員<br>
-8      中國文化大學法律系財經組主任<br>
-9      證券櫃檯買賣中心上櫃審查委員<br>
-10    公司法全盤修法委員會社會企業議題負責人<br>
-11    行政院國家發展委員會訴願審議委員會委員"
-  thumbnailUrl: fyy.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 30
-  name: "陳奕甫"
-  surname: ""
-  company: "KPMG台灣加密資產與代幣經濟服務小組營運總監、銘傳大學金融科技學院兼任講師"
-  title: ""
-  bio: ""
-  thumbnailUrl: cyf.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
--
-  id: 31
+  id: 6
   name: "Yu-Jing"
   surname: "Lin"
   company: "National Taiwan University"
   title: "Researcher"
   bio: ""
-  thumbnailUrl: gray.png
+  thumbnailUrl: Elvis.jpg
   rockstar: false
   social:
     - {name: "website", link: ""}
--
-  id: 32
-  name: "Yisi"
-  surname: "Liu"
-  company: "Dimension"
-  title: "CTO"
-  bio: ""
-  thumbnailUrl: Yisi.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
+
+# -
+#   id: 32
+#   name: "Yisi"
+#   surname: "Liu"
+#   company: "Dimension"
+#   title: "CTO"
+#   bio: ""
+#   thumbnailUrl: Yisi.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
 

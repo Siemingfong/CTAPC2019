@@ -37,7 +37,7 @@
   service: true
 -
   id: 108
-  title: "Banquet"
+  title: "Parallel Session 2a:<br>晚宴"
   place: ""
   service: true
 
@@ -52,7 +52,7 @@
   #complexity: "Intermediate"
 -
   id: 002
-  title: "Computing Trend for AI & Blockchain : From Tera-scale to Exa-scale 人工智慧與區塊鏈運算大趨勢 : 邁向百萬兆次計算"
+  title: "邁向百萬兆次計算 Computing Trend for AI : From Tera-scale to Exa-scale"
   description: ""
   subtype: presentation
   speakers: [5]
@@ -127,6 +127,29 @@
   subtype: presentation
   speakers: []
   #complexity: "Intermediate"
+-
+  id: 013
+  title: "題目：Using Match Network & Relative Attributes for Multi-domain Image-to-Image Translation<br>
+主講人：P. Wu., Y. Lin., C. Chang., E. Chang. and S. Liao. (Researcher, National Taiwan University)"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
+  id: 014
+  title: "Poster Session<br>
+Lightning talk: 5 minutes.<br>
+題目：Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures<br>
+主講人：S. Fu. and W. Hsu. (Researcher, National Taiwan University)<br><br>
+題目：Exploiting SIMD Optimization in an ARMv7 Dynamic Binary Translator<br>
+主講人：C. Lin., S. Fu., D. Hong., Y. Liu., J. Wu. and W. Hsu. (Researcher, National Taiwan University)"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+
+
+
 
 -
   id: 301
@@ -216,6 +239,7 @@
 -
   id: 402
   title: "Edge AI and Its Key Success Factors"
+  host: "主持人：David Chang 張大緯 (Professor at National Cheng Kung University)"
   description: ""
   subtype: presentation
   speakers: [13]
@@ -252,7 +276,7 @@
 
 -
   id: 409
-  title: "Panel of Blockchain computing"
+  title: "Parallel Session 3a<br>Panel of Blockchain computing"
   host: "主持人： Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)"
   description: ""
   subtype: presentation
@@ -284,22 +308,30 @@
   speakers: []
 -
   id: 413
-  title: "待確定"
+  title: "Parallel Session 2b:<br>新世代的區塊鏈核心技術—亂數如何幫助達成共識"
+  host: "地點：台大資工德田館 102 教室"
   description: ""
   subtype: presentation
   speakers: [27]
 -
   id: 414
-  title: "Parallel Session 1a: Computational photography and machine learning on Google's smartphones (Room 104 of CSIE Building)"
+  title: "Parallel Session 1a<br>Computational photography and machine learning on Google's smartphones"
   description: ""
   subtype: presentation
   speakers: [28]
 -
   id: 415
-  title: "Parallel Session 1b: <br>
-  Support and Optimization with Rust for RISC-V Architectures, H. Lin, P. Chen, J. Lee, National Tsinghua University<br>
-  Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures, S. Fu and W. Hsu, National Taiwan University<br>
-   Automated Syntactic Refactoring, Y. Lee and Y. You, National Chiao-Tung University"
+  title: "Parallel Session 1b<br>主持人：Professor Peng-Sheng Chen (National Chung Cheng University)<br>
+題目：A New Readahead Framework for Multi-tiered Storage Systems<br>
+主講人：H. Chang, C. Chen and C. Liu (National Chung Hsing University)<br><br>
+題目：Support and Optimization with Rust for RISC-V Architectures<br>
+主講人：H. Lin, P. Chen, J. Lee (National Tsinghua University)<br><br>
+題目：Theoretical Aspect of GPU Data Allocation for Deep Learning<br>
+主講人：C. Jhu, P. Liu and J. Wu (National Taiwan University)<br><br><br>
+Poster Session<br>
+Lightning talk: 5 minutes.<br>
+題目：Automated Syntactic Refactoring<br>
+作者：Y. Lee and Y. You (National Chiao Tung University)"
   description: ""
   subtype: presentation
   speakers: []
@@ -307,10 +339,31 @@
 -
   id: 416
   title: "An Evaluation of Bitcoin Address Classification based on Transaction History Summarization"
+  host: "主持人：Wuu Yang (Professor at National Chiao Tung University)"
   description: ""
   subtype: presentation
   speakers: [31,1]
 
+  #-
+  #  id: 417
+  #  title: "Parallel Session 3a<br>Panel of Blockchain computing<br>
+  #主持人：Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)<br>
+  #與會者：Dr. 廖世偉(國立臺灣大學資訊工程學系 副教授),
+  #Dr. Jiaping Wang王嘉平 (Head of InnovationWorks),
+  #Dr. 方元沂(文化大學法律學系教授兼學務長),
+  #陳奕甫(KPMG台灣加密資產與代幣經濟服務小組營運總監、銘傳大學金融科技學院兼任講師)"
+  #  description: ""
+  #  subtype: presentation
+  #  speakers: []
+-
+  id: 417
+  title: "Parallel Session 3b<br>
+題目：AI Products (Topic1: Origin of Neural Network, Topic2: Apple Design)<br>
+主講人：呂學人 (鴻海精密工業股份有限公司 D Group 技術長/副總經理)<br>
+地點：台大管理學院一館B101教室"
+  description: ""
+  subtype: presentation
+  speakers: []
 
 
 
