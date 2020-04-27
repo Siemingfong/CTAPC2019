@@ -12,4 +12,19 @@
     - {name: "twitter", link: "https://twitter.com/SieMingFong"}
     - {name: "github", link: "https://github.com/Siemingfong/"}
     - {name: "site", link: "https://www.linkedin.com/in/siemingfong/"}
+-
+
+- 
+  id: 1
+  name: "Seth"
+  surname: "Austin Harding"
+  title: "Sponsors and Speakers Manager"
+  thumbnailUrl: SethHarding.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "NTU Computer Science student"}
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/hasi.han.3"}
+    - {name: "github", link: "https://github.com/Gearlad"}
+    - {name: "site", link: "https://www.linkedin.com/in/sethaustin"}
 - 

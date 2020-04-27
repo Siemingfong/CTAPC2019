@@ -218,19 +218,19 @@
 #   social:
 #     - {name: "website", link: ""}
 
--
-  id: 2
-  name: "Sway Teng 鄧萬偉"
-  surname: ""
-  company: "STAR BIT"
-  title: "CEO"
-  bio: "STAR BIT思偉達創新科技共同創辦人暨執行長<br>
-淡江資工系畢業，畢業後一路在科技產業累計技術與市場相關經驗，從京元電子、南亞科技、到美商 SUPERMICRO，職位囊括工程師、半導體產品應用工程師、Sales、外商產品經理、採購等……將創業視為遠程計劃，積極鋪路。 2017年，因職務機緣接觸區塊鏈技術，並看好其長遠發展性，在該年底創立了STAR BIT思偉達創新科技，定位為以區塊鏈為本的軟體與技術服務公司，正式切入這個風口產業。<br>
-STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX、區塊鏈手機錢包STAR WALLET、區塊鏈新手網站「陪你上鏈」等，目前更全力發展「區塊鏈之星BLOCKCHAINSTAR」產業合作計畫，積極進攻區塊鏈落地應用的廣大市場。"
-  thumbnailUrl: Sway.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
+# -
+#   id: 2
+#   name: "Sway Teng 鄧萬偉"
+#   surname: ""
+#   company: "STAR BIT"
+#   title: "CEO"
+#   bio: "STAR BIT思偉達創新科技共同創辦人暨執行長<br>
+# 淡江資工系畢業，畢業後一路在科技產業累計技術與市場相關經驗，從京元電子、南亞科技、到美商 SUPERMICRO，職位囊括工程師、半導體產品應用工程師、Sales、外商產品經理、採購等……將創業視為遠程計劃，積極鋪路。 2017年，因職務機緣接觸區塊鏈技術，並看好其長遠發展性，在該年底創立了STAR BIT思偉達創新科技，定位為以區塊鏈為本的軟體與技術服務公司，正式切入這個風口產業。<br>
+# STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX、區塊鏈手機錢包STAR WALLET、區塊鏈新手網站「陪你上鏈」等，目前更全力發展「區塊鏈之星BLOCKCHAINSTAR」產業合作計畫，積極進攻區塊鏈落地應用的廣大市場。"
+#   thumbnailUrl: Sway.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
 
 # -
 #   id: 20
@@ -254,17 +254,17 @@ STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX�
 #   rockstar: false
 #   social:
 #     - {name: "website", link: ""}
--
-  id: 3
-  name: "David Pan 潘奕彰"
-  surname: ""
-  company: "ACE 加速器"
-  title: "CEO"
-  #bio: ""
-  thumbnailUrl: David.jpg
-  rockstar: false
-  social:
-    - {name: "website", link: ""}
+# -
+#   id: 3
+#   name: "David Pan 潘奕彰"
+#   surname: ""
+#   company: "ACE 加速器"
+#   title: "CEO"
+#   #bio: ""
+#   thumbnailUrl: David.jpg
+#   rockstar: false
+#   social:
+#     - {name: "website", link: ""}
 
 # -
 #   id: 23
@@ -279,7 +279,7 @@ STAR BIT創立以來陸續推出亞洲第一間去中心化交易所STAR BIT EX�
 #     - {name: "website", link: ""}
 
 -
-  id: 4
+  id: 2
   name: "MingYang Chih 池明洋"
   surname: ""
   company: "CHELPIS"
@@ -321,7 +321,7 @@ Chelpis focus on blockchain ledger application and token economy system now. The
 #     - {name: "website", link: ""}
 
 -
-  id: 5
+  id: 3
   name: "Po-Chun"
   surname: "Kuo"
   company: "Cobinhood & Dexon Foundation"
