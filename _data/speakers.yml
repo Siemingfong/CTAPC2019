@@ -324,11 +324,11 @@ Chelpis focus on blockchain ledger application and token economy system now. The
   id: 3
   name: "Po-Chun"
   surname: "Kuo"
-  company: "Cobinhood & Dexon Foundation"
+  company: "Byzantine Lab"
   title: "Chief Scientist"
   bio: ""
   thumbnailUrl: PoChun.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "website", link: ""}
 

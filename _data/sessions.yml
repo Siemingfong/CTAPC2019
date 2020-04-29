@@ -120,32 +120,32 @@
   subtype: presentation
   speakers: []
   #complexity: "Intermediate"
--
-  id: 012
-  title: "Panel discussion"
-  description: ""
-  subtype: presentation
-  speakers: []
-  #complexity: "Intermediate"
--
-  id: 013
-  title: "題目：Using Match Network & Relative Attributes for Multi-domain Image-to-Image Translation<br>
-主講人：P. Wu., Y. Lin., C. Chang., E. Chang. and S. Liao. (Researcher, National Taiwan University)"
-  description: ""
-  subtype: presentation
-  speakers: []
-  #complexity: "Intermediate"
--
-  id: 014
-  title: "Poster Session<br>
-Lightning talk: 5 minutes.<br>
-題目：Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures<br>
-主講人：S. Fu. and W. Hsu. (Researcher, National Taiwan University)<br><br>
-題目：Exploiting SIMD Optimization in an ARMv7 Dynamic Binary Translator<br>
-主講人：C. Lin., S. Fu., D. Hong., Y. Liu., J. Wu. and W. Hsu. (Researcher, National Taiwan University)"
-  description: ""
-  subtype: presentation
-  speakers: []
+# -
+#   id: 012
+#   title: "Panel discussion"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+#   #complexity: "Intermediate"
+# -
+#   id: 013
+#   title: "題目：Using Match Network & Relative Attributes for Multi-domain Image-to-Image Translation<br>
+# 主講人：P. Wu., Y. Lin., C. Chang., E. Chang. and S. Liao. (Researcher, National Taiwan University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+#   #complexity: "Intermediate"
+# -
+#   id: 014
+#   title: "Poster Session<br>
+# Lightning talk: 5 minutes.<br>
+# 題目：Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures<br>
+# 主講人：S. Fu. and W. Hsu. (Researcher, National Taiwan University)<br><br>
+# 題目：Exploiting SIMD Optimization in an ARMv7 Dynamic Binary Translator<br>
+# 主講人：C. Lin., S. Fu., D. Hong., Y. Liu., J. Wu. and W. Hsu. (Researcher, National Taiwan University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
   #complexity: "Intermediate"
 
 
@@ -159,7 +159,7 @@ Lightning talk: 5 minutes.<br>
   speakers: []
 -
   id: 302
-  title: "Blockchain STO 白皮書：活化資產，翻轉經濟的機會與挑戰"
+  title: "新冠肺炎下的資安隱私與數據分析"
   description: ""
   subtype: presentation
   speakers: [1]
@@ -171,12 +171,12 @@ Lightning talk: 5 minutes.<br>
   #  subtype: presentation
   #  speakers: [9]
   #  #complexity: "Intermediate"
--
-  id: 304
-  title: "區塊鏈大未來"
-  description: ""
-  subtype: presentation
-  speakers: [10]
+# -
+#   id: 304
+#   title: "區塊鏈大未來"
+#   description: ""
+#   subtype: presentation
+#   speakers: [10]
   #complexity: "Intermediate"
   #-
   #  id: 305
@@ -199,180 +199,180 @@ Lightning talk: 5 minutes.<br>
   #  subtype: presentation
   #  speakers: []
   #  #complexity: "Intermediate"
--
-  id: 308
-  title: "Panel of Token economic: Jason Hsu (Congressman at Taiwan),  Wang and Danny Deng (Chairman, Tai Could Technology)"
-  description: ""
-  subtype: presentation
-  speakers: []
-  #complexity: "Intermediate"
--
-  id: 309
-  title: "Identity centric digital economy"
-  description: ""
-  subtype: presentation
-  speakers: [20]
-  #complexity: "Intermediate"
-  #-
-  #  id: 310
-  #  title: "物聯網與區塊鏈的完美結合"
-  #  description: ""
-  #  subtype: presentation
-  #  speakers: [21]
-  #  #complexity: "Intermediate"
--
-  id: 311
-  title: "區塊鏈技術圓桌論壇 Panel of Token economic"
-  host: "主持人：Dr. 林盟翔(亞太區塊鏈協會顧問、銘傳大學金融科技學院及財金法律學系合聘專任副教授)<br>
-與談人：Dr. 許孟祥(高雄科技大學資管系 特聘教授), Dr. 林慶達(工研院資訊與通訊研究所 創新智慧應用與金融科技技術組 組長), Feihu Tang(CEO, Andoromeda) and Dr. 李俊宏(國立高雄科技大學 電機工程系教授)"
-  description: ""
-  subtype: presentation
-  speakers: []
-  #complexity: "Intermediate"
+# -
+#   id: 308
+#   title: "Panel of Token economic: Jason Hsu (Congressman at Taiwan),  Wang and Danny Deng (Chairman, Tai Could Technology)"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+#   #complexity: "Intermediate"
+# -
+#   id: 309
+#   title: "Identity centric digital economy"
+#   description: ""
+#   subtype: presentation
+#   speakers: [20]
+#   #complexity: "Intermediate"
+#   #-
+#   #  id: 310
+#   #  title: "物聯網與區塊鏈的完美結合"
+#   #  description: ""
+#   #  subtype: presentation
+#   #  speakers: [21]
+#   #  #complexity: "Intermediate"
+# -
+#   id: 311
+#   title: "區塊鏈技術圓桌論壇 Panel of Token economic"
+#   host: "主持人：Dr. 林盟翔(亞太區塊鏈協會顧問、銘傳大學金融科技學院及財金法律學系合聘專任副教授)<br>
+# 與談人：Dr. 許孟祥(高雄科技大學資管系 特聘教授), Dr. 林慶達(工研院資訊與通訊研究所 創新智慧應用與金融科技技術組 組長), Feihu Tang(CEO, Andoromeda) and Dr. 李俊宏(國立高雄科技大學 電機工程系教授)"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+#   #complexity: "Intermediate"
    
--
-  id: 401
-  title: "The Computing Frontiers of Social Network"
-  description: ""
-  subtype: presentation
-  speakers: [4]
--
-  id: 402
-  title: "Edge AI and Its Key Success Factors"
-  host: "主持人：David Chang 張大緯 (Professor at National Cheng Kung University)"
-  description: ""
-  subtype: presentation
-  speakers: [13]
-  #-
-  #  id: 403
-  #  title: "Panel of AI computing Sean and Max conversation"
-  #  description: ""
-  #  subtype: presentation
-  #  speakers: [4,13]
--
-  id: 405
-  title: "Introduction to NNEF for AI Framework"
-  description: ""
-  subtype: presentation
-  speakers: [14]
--
-  id: 406
-  title: "Formal Verification for Blockchain and Trusted Computing"
-  description: ""
-  subtype: presentation
-  speakers: [26]
--
-  id: 407
-  title: "企業區塊鏈之應用實例與技術探討"
-  description: ""
-  subtype: presentation
-  speakers: [9]
--
-  id: 408
-  title: "區塊鏈到底有什麼了不起？"
-  description: ""
-  subtype: presentation
-  speakers: [2]
+# -
+#   id: 401
+#   title: "The Computing Frontiers of Social Network"
+#   description: ""
+#   subtype: presentation
+#   speakers: [4]
+# -
+#   id: 402
+#   title: "Edge AI and Its Key Success Factors"
+#   host: "主持人：David Chang 張大緯 (Professor at National Cheng Kung University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [13]
+#   #-
+#   #  id: 403
+#   #  title: "Panel of AI computing Sean and Max conversation"
+#   #  description: ""
+#   #  subtype: presentation
+#   #  speakers: [4,13]
+# -
+#   id: 405
+#   title: "Introduction to NNEF for AI Framework"
+#   description: ""
+#   subtype: presentation
+#   speakers: [14]
+# -
+#   id: 406
+#   title: "Formal Verification for Blockchain and Trusted Computing"
+#   description: ""
+#   subtype: presentation
+#   speakers: [26]
+# -
+#   id: 407
+#   title: "企業區塊鏈之應用實例與技術探討"
+#   description: ""
+#   subtype: presentation
+#   speakers: [9]
+# -
+#   id: 408
+#   title: "區塊鏈到底有什麼了不起？"
+#   description: ""
+#   subtype: presentation
+#   speakers: [2]
 
--
-  id: 409
-  title: "Parallel Session 3a<br>Panel of Blockchain computing"
-  host: "主持人： Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)"
-  description: ""
-  subtype: presentation
-  speakers: [1,2,29,30]
+# -
+#   id: 409
+#   title: "Parallel Session 3a<br>Panel of Blockchain computing"
+#   host: "主持人： Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [1,2,29,30]
 
-  #-
-  #  id: 410
-  #  title: "Panel of AI & Blockchain: Lai and Liang conversation"
-  #  description: ""
-  #  subtype: presentation
-  #  speakers: [5,8]
--
-  id: 410
-  title: "Enhanced Privacy with Decentralized Identity"
-  description: ""
-  subtype: presentation
-  speakers: [32]
--
-  id: 411
-  title: "Poster Session"
-  description: ""
-  subtype: presentation
-  speakers: []
--
-  id: 412
-  title: "Lightning talks and Satoshi Nakamoto Award announcement"
-  description: ""
-  subtype: presentation
-  speakers: []
--
-  id: 413
-  title: "Parallel Session 2b:<br>新世代的區塊鏈核心技術—亂數如何幫助達成共識"
-  host: "地點：台大資工德田館 102 教室"
-  description: ""
-  subtype: presentation
-  speakers: [27]
--
-  id: 414
-  title: "Parallel Session 1a<br>Computational photography and machine learning on Google's smartphones"
-  description: ""
-  subtype: presentation
-  speakers: [28]
--
-  id: 415
-  title: "Parallel Session 1b<br>主持人：Professor Peng-Sheng Chen (National Chung Cheng University)<br>
-題目：A New Readahead Framework for Multi-tiered Storage Systems<br>
-主講人：H. Chang, C. Chen and C. Liu (National Chung Hsing University)<br><br>
-題目：Support and Optimization with Rust for RISC-V Architectures<br>
-主講人：H. Lin, P. Chen, J. Lee (National Tsinghua University)<br><br>
-題目：Theoretical Aspect of GPU Data Allocation for Deep Learning<br>
-主講人：C. Jhu, P. Liu and J. Wu (National Taiwan University)<br><br><br>
-Poster Session<br>
-Lightning talk: 5 minutes.<br>
-題目：Automated Syntactic Refactoring<br>
-作者：Y. Lee and Y. You (National Chiao Tung University)"
-  description: ""
-  subtype: presentation
-  speakers: []
+#   #-
+#   #  id: 410
+#   #  title: "Panel of AI & Blockchain: Lai and Liang conversation"
+#   #  description: ""
+#   #  subtype: presentation
+#   #  speakers: [5,8]
+# -
+#   id: 410
+#   title: "Enhanced Privacy with Decentralized Identity"
+#   description: ""
+#   subtype: presentation
+#   speakers: [32]
+# -
+#   id: 411
+#   title: "Poster Session"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+# -
+#   id: 412
+#   title: "Lightning talks and Satoshi Nakamoto Award announcement"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+# -
+#   id: 413
+#   title: "Parallel Session 2b:<br>新世代的區塊鏈核心技術—亂數如何幫助達成共識"
+#   host: "地點：台大資工德田館 102 教室"
+#   description: ""
+#   subtype: presentation
+#   speakers: [27]
+# -
+#   id: 414
+#   title: "Parallel Session 1a<br>Computational photography and machine learning on Google's smartphones"
+#   description: ""
+#   subtype: presentation
+#   speakers: [28]
+# -
+#   id: 415
+#   title: "Parallel Session 1b<br>主持人：Professor Peng-Sheng Chen (National Chung Cheng University)<br>
+# 題目：A New Readahead Framework for Multi-tiered Storage Systems<br>
+# 主講人：H. Chang, C. Chen and C. Liu (National Chung Hsing University)<br><br>
+# 題目：Support and Optimization with Rust for RISC-V Architectures<br>
+# 主講人：H. Lin, P. Chen, J. Lee (National Tsinghua University)<br><br>
+# 題目：Theoretical Aspect of GPU Data Allocation for Deep Learning<br>
+# 主講人：C. Jhu, P. Liu and J. Wu (National Taiwan University)<br><br><br>
+# Poster Session<br>
+# Lightning talk: 5 minutes.<br>
+# 題目：Automated Syntactic Refactoring<br>
+# 作者：Y. Lee and Y. You (National Chiao Tung University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
 
--
-  id: 416
-  title: "An Evaluation of Bitcoin Address Classification based on Transaction History Summarization"
-  host: "主持人：Wuu Yang (Professor at National Chiao Tung University)"
-  description: ""
-  subtype: presentation
-  speakers: [31,1]
+# -
+#   id: 416
+#   title: "An Evaluation of Bitcoin Address Classification based on Transaction History Summarization"
+#   host: "主持人：Wuu Yang (Professor at National Chiao Tung University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [31,1]
 
-  #-
-  #  id: 417
-  #  title: "Parallel Session 3a<br>Panel of Blockchain computing<br>
-  #主持人：Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)<br>
-  #與會者：Dr. 廖世偉(國立臺灣大學資訊工程學系 副教授),
-  #Dr. Jiaping Wang王嘉平 (Head of InnovationWorks),
-  #Dr. 方元沂(文化大學法律學系教授兼學務長),
-  #陳奕甫(KPMG台灣加密資產與代幣經濟服務小組營運總監、銘傳大學金融科技學院兼任講師)"
-  #  description: ""
-  #  subtype: presentation
-  #  speakers: []
--
-  id: 417
-  title: "Parallel Session 3b<br>
-題目：AI Products (Topic1: Origin of Neural Network, Topic2: Apple Design)<br>
-主講人：呂學人 (鴻海精密工業股份有限公司 D Group 技術長/副總經理)<br>
-地點：台大管理學院一館B101教室"
-  description: ""
-  subtype: presentation
-  speakers: []
+#   #-
+#   #  id: 417
+#   #  title: "Parallel Session 3a<br>Panel of Blockchain computing<br>
+#   #主持人：Dr. 林盟翔(銘傳大學金融科技學院暨財法系合聘專任副教授、金融科技應用學士學位學程主任、亞太區塊鏈發展協會顧問)<br>
+#   #與會者：Dr. 廖世偉(國立臺灣大學資訊工程學系 副教授),
+#   #Dr. Jiaping Wang王嘉平 (Head of InnovationWorks),
+#   #Dr. 方元沂(文化大學法律學系教授兼學務長),
+#   #陳奕甫(KPMG台灣加密資產與代幣經濟服務小組營運總監、銘傳大學金融科技學院兼任講師)"
+#   #  description: ""
+#   #  subtype: presentation
+#   #  speakers: []
+# -
+#   id: 417
+#   title: "Parallel Session 3b<br>
+# 題目：AI Products (Topic1: Origin of Neural Network, Topic2: Apple Design)<br>
+# 主講人：呂學人 (鴻海精密工業股份有限公司 D Group 技術長/副總經理)<br>
+# 地點：台大管理學院一館B101教室"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
 
 
 
--
-  id: 501
-  title: "區塊鏈大未來"
-  description: ""
-  subtype: presentation
-  speakers: [10]
+# -
+#   id: 501
+#   title: "區塊鏈大未來"
+#   description: ""
+#   subtype: presentation
+#   speakers: [10]
 
   #-
   #  id: 502
@@ -381,137 +381,137 @@ Lightning talk: 5 minutes.<br>
   #  subtype: presentation
   #  speakers: [9] 
 
--
-  id: 503
-  title: "區塊鏈技術之企業應用與轉型"
-  host: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
-  description: ""
-  subtype: presentation
-  speakers: [11] 
--
-  id: 504
-  title: "致 	詞  Dr. 葉匡時 高雄市副市長  (Deputy Mayor at Kaohsiung City Government) & 前中山大學 EMBA 執行長 (Ex CEO at EMBA National Sun Yat-sen University)"
-  host: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
-  description: ""
-  subtype: presentation
-  speakers: [] 
+# -
+#   id: 503
+#   title: "區塊鏈技術之企業應用與轉型"
+#   host: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [11] 
+# -
+#   id: 504
+#   title: "致 	詞  Dr. 葉匡時 高雄市副市長  (Deputy Mayor at Kaohsiung City Government) & 前中山大學 EMBA 執行長 (Ex CEO at EMBA National Sun Yat-sen University)"
+#   host: "主持人：Dr. 李俊宏 (Professor at National Kaohsiung University of Science and Technology)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [] 
 -
   id: 505
-  title: "Blockchain STO & Light-Touch Token Standard: 普惠金融與活化資產的機會與挑戰"
+  title: "新冠肺炎下的資安隱私與數據分析"
   description: ""
   subtype: presentation
-  speakers: [1] 
--
-  id: 506
-  title: "主持人：Dr. 馬黛 (Professor at National Sun Yat-sen University)"
-  description: ""
-  subtype: presentation
-  speakers: [] 
--
-  id: 507
-  title: "金融科技與普惠金融之STO創新法制展望 (Prospects for STO Innovational Legal System of FinTech and Financial Inclusion)"
-  description: ""
-  subtype: presentation
-  speakers: [15] 
--
-  id: 508
-  title: "區塊鏈的迷思：產業升級與轉型"
-  description: ""
-  subtype: presentation
-  speakers: [23]
+#   speakers: [1] 
+# -
+#   id: 506
+#   title: "主持人：Dr. 馬黛 (Professor at National Sun Yat-sen University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [] 
+# -
+#   id: 507
+#   title: "金融科技與普惠金融之STO創新法制展望 (Prospects for STO Innovational Legal System of FinTech and Financial Inclusion)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [15] 
+# -
+#   id: 508
+#   title: "區塊鏈的迷思：產業升級與轉型"
+#   description: ""
+#   subtype: presentation
+#   speakers: [23]
 -
   id: 509
-  title: "The Internet’s Own Ads: How Web3 Infrastructure & Token Economy will reshape the Ads Industry"
+  title: "Randomness for Blockchains"
   description: ""
   subtype: presentation
   speakers: [3] 
--
-  id: 510
-  title: "跨國資產通證化趨勢-STO發行平台"
-  description: ""
-  subtype: presentation
-  speakers: [18] 
--
-  id: 511
-  title: "虛擬通貨交易平台 Fin + Tech"
-  description: ""
-  subtype: presentation
-  speakers: [19] 
--
-  id: 512
-  #  title: "Panel of STO discussion:<br>
-  #主持人：Chen-Mou Cheng (Professor at National Taiwan University),<br>
-  #Michael Chen (Head of Business Development, Asia Blockchain Accelerator)<br>
-  #Jesse Knutson 江旭昇,<br>
-  #池明洋 MingYang Chih (CEO & Founder, CHELPIS),<br>
-  #Joanna Tien 田智娟 (Director, PSIM),<br>
-  #Minako Kojima (CEO, Andoromeda),<br>
-  #Sway Teng 鄧萬偉 (CEO, Starbit),<br>
-  #Bryan Cheng (COO, WageCan)."
-  title: "Panel of STO discussion"
-  host: "主持人：Chen-Mou Cheng (Professor at National Taiwan University)"
-  description: ""
-  subtype: presentation
-  speakers: [23,25,16,24,17,3,19,18] 
--
-  id: 513
-  title: "Token Economy"
-  description: ""
-  subtype: presentation
-  speakers: [3] 
--
-  id: 514
-  title: "專題演講"
-  description: ""
-  subtype: presentation
-  speakers: [] 
--
-  id: 515
-  title: "台灣的獨有機會: 證券化代幣發行"
-  description: ""
-  subtype: presentation
-  speakers: [16] 
--
-  id: 516
-  title: "主持人：Marx Wang (CSO, BytePay)"
-  description: ""
-  subtype: presentation
-  speakers: [] 
--
-  id: 517
-  title: "主持人：Dr. 柯博昌 (VP at National Kaohsiung University of Science and Technology)"
-  description: ""
-  subtype: presentation
-  speakers: [] 
--
-  id: 601
-  title: "Cryptographic Foundation"
-  description: ""
-  subtype: presentation
-  speakers: [1] 
--
-  id: 602
-  title: "Blockchain Trinity: 術 (Engine, Consensus) 權 (Token Economy) 道 (Governance, Contract)"
-  description: ""
-  subtype: presentation
-  speakers: [1] 
--
-  id: 603
-  title: "Bitcoin anomaly & Bitcoin tracing"
-  description: ""
-  subtype: presentation
-  speakers: [1] 
--
-  id: 701
-  title: "區塊鏈的特色優勢"
-  description: ""
-  subtype: presentation
-  speakers: [2] 
--
-  id: 702
-  title: "數字經濟圓桌論壇 Panel of Token economic"
-  description: ""
-  host: "主持人：徐遠重 董事長 (大三生集團 董事長)<br>與談人：元道 (中關村產業聯盟 董事長)and 張壽松 (聚鏈集團 董事長 , William Wei (Ex CEO, Veridium Labs)"
-  subtype: presentation
-  speakers: [] 
+# -
+#   id: 510
+#   title: "跨國資產通證化趨勢-STO發行平台"
+#   description: ""
+#   subtype: presentation
+#   speakers: [18] 
+# -
+#   id: 511
+#   title: "虛擬通貨交易平台 Fin + Tech"
+#   description: ""
+#   subtype: presentation
+#   speakers: [19] 
+# -
+#   id: 512
+#   #  title: "Panel of STO discussion:<br>
+#   #主持人：Chen-Mou Cheng (Professor at National Taiwan University),<br>
+#   #Michael Chen (Head of Business Development, Asia Blockchain Accelerator)<br>
+#   #Jesse Knutson 江旭昇,<br>
+#   #池明洋 MingYang Chih (CEO & Founder, CHELPIS),<br>
+#   #Joanna Tien 田智娟 (Director, PSIM),<br>
+#   #Minako Kojima (CEO, Andoromeda),<br>
+#   #Sway Teng 鄧萬偉 (CEO, Starbit),<br>
+#   #Bryan Cheng (COO, WageCan)."
+#   title: "Panel of STO discussion"
+#   host: "主持人：Chen-Mou Cheng (Professor at National Taiwan University)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [23,25,16,24,17,3,19,18] 
+# -
+#   id: 513
+#   title: "Token Economy"
+#   description: ""
+#   subtype: presentation
+#   speakers: [3] 
+# -
+#   id: 514
+#   title: "專題演講"
+#   description: ""
+#   subtype: presentation
+#   speakers: [] 
+# -
+#   id: 515
+#   title: "台灣的獨有機會: 證券化代幣發行"
+#   description: ""
+#   subtype: presentation
+#   speakers: [16] 
+# -
+#   id: 516
+#   title: "主持人：Marx Wang (CSO, BytePay)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [] 
+# -
+#   id: 517
+#   title: "主持人：Dr. 柯博昌 (VP at National Kaohsiung University of Science and Technology)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [] 
+# -
+#   id: 601
+#   title: "Cryptographic Foundation"
+#   description: ""
+#   subtype: presentation
+#   speakers: [1] 
+# -
+#   id: 602
+#   title: "Blockchain Trinity: 術 (Engine, Consensus) 權 (Token Economy) 道 (Governance, Contract)"
+#   description: ""
+#   subtype: presentation
+#   speakers: [1] 
+# -
+#   id: 603
+#   title: "Bitcoin anomaly & Bitcoin tracing"
+#   description: ""
+#   subtype: presentation
+#   speakers: [1] 
+# -
+#   id: 701
+#   title: "區塊鏈的特色優勢"
+#   description: ""
+#   subtype: presentation
+#   speakers: [2] 
+# -
+#   id: 702
+#   title: "數字經濟圓桌論壇 Panel of Token economic"
+#   description: ""
+#   host: "主持人：徐遠重 董事長 (大三生集團 董事長)<br>與談人：元道 (中關村產業聯盟 董事長)and 張壽松 (聚鏈集團 董事長 , William Wei (Ex CEO, Veridium Labs)"
+#   subtype: presentation
+#   speakers: [] 
 

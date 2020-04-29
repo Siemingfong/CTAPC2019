@@ -1,9 +1,9 @@
 -
-  date: "2020-05-22"
-  dateReadable: "May 22 <small><small>(Premiere Week)</small></small>"
+  date: "2020-05-01"
+  dateReadable: "May 1 <small><small>(Premiere Week)</small></small>"
   day: "day 1"
   tracks:
-      - {title: "台灣資工德田館 102 教室", color: "#90be4e"}
+      - {title: "台灣資工德田館 105 教室", color: "#90be4e"}
   timeslots:
     # - {
     #     startTime: "",
@@ -59,8 +59,8 @@
     #     sessionIds: [504]
     # }
     - {
-        startTime: "13:30",
-        endTime: "13:45",
+        startTime: "17:00",
+        endTime: "18:30",
         sessionIds: [505]
     }
     # - {
@@ -109,18 +109,18 @@
     #     sessionIds: [512]
     # }
 
--
-  date: "2020-05-23"
-  dateReadable: "May 23"
-  day: "day 2"
-  tracks:
-      - {title: "台大資工德田館 102 教室", color: "#90be4e"}
-  timeslots:
-    - {
-        startTime: "18:30",
-        endTime: "21:00",
-        sessionIds: [601]
-    }
+# -
+#   date: "2020-05-23"
+#   dateReadable: "May 23"
+#   day: "day 2"
+#   tracks:
+#       - {title: "台大資工德田館 102 教室", color: "#90be4e"}
+#   timeslots:
+#     - {
+#         startTime: "18:30",
+#         endTime: "21:00",
+#         sessionIds: [601]
+#     }
 # -
 #   date: "2019-05-10"
 #   dateReadable: "May 10"
