@@ -1,16 +1,16 @@
-# - 
-#   id: 0
-#   name: "Dr. Jason"
-#   surname: "Lin"
-#   company: "Industrial Technology Research Institute, Formosa Plastics Corporation"
-#   title: "Academician, Chairman & President"
-#   thumbnailUrl: JasonLin.jpg
-#   social: 
-#     - {name: "website", link: "http://www.fpc.com.tw/fpcw/index.php?op=res&id=3"}
-#     # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     # - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 0
+  name: "Dr. Wei-Chung"
+  surname: "Hsu"
+  company: "Computer Science, National Taiwan University"
+  title: "Professor and Associate Chairman"
+  thumbnailUrl: WeiChung.jpg
+  social: 
+    - {name: "website", link: "https://covart.csie.ntu.edu.tw/advisor"}
+    # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    # - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 1
   name: "Dr. Cheok Peng"
   surname: "Lim"
   company: "Singapore Medical Council Panel of Disciplinary Tribunal, NUS President's Advancement Advisory Council"
