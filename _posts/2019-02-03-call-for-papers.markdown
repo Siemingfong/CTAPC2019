@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2020-02-03 09:00:00
+date:   2020-04-01 09:00:00
 isStaticPost: false
 ---
-CTAPC 2020 will be held 22-23th of May in international city of Taipei. If you want to be part of this great event as a speaker you knocked at the good door.
+CTAPC 2020 will be held 05-06th of June in international city of Taipei. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the CTAP Conference?
 

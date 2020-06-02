@@ -68,7 +68,7 @@ typeoutTextValues: '"", "Computing", "Technology", "AI", "Platform", "Conference
 typeoutFallback: "NTU"
 heroButtons:
  - {link: "https://easychair.org/conferences/?conf=ctapc2020", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Gets tickets"}
    # - {link: "/sponsor", text: "Become a sponsor"}
 
 # About Block
@@ -124,7 +124,7 @@ venueFeatures: []
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
