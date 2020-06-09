@@ -48,14 +48,14 @@
   title: "GAN Models for Visual Learning"
   description: ""
   subtype: presentation
-  speakers: [8]
+  speakers: [4]
   #complexity: "Intermediate"
 -
   id: 002
-  title: "邁向百萬兆次計算 Computing Trend for AI : From Tera-scale to Exa-scale"
+  title: "數位新台幣下的趨勢與技術探討"
   description: ""
   subtype: presentation
-  speakers: [5]
+  speakers: [2]
   #complexity: "Intermediate" 
 -
   id: 003
@@ -83,14 +83,14 @@
   title: "Blockchain Research"
   description: ""
   subtype: presentation
-  speakers: [3]
+  speakers: []
   #complexity: "Intermediate"
 -
   id: 007
-  title: "Token Research"
-  description: "專題演講"
+  title: "DID, Privacy, Maskbook"
+  description: ""
   subtype: presentation
-  speakers: []
+  speakers: [5]
   #complexity: "Intermediate"
 -
   id: 008

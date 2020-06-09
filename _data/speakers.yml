@@ -46,17 +46,17 @@
 #   social:
 #     - {name: "website", link: ""}
 
-# -
-#   id: 5
-#   name: "Dr. Bor-sung"
-#   surname: "Liang"
-#   company: "Mediatek"
-#   title: "Chief Technology Consultant, IDBG"
-#   bio: ""
-#   thumbnailUrl: BorSungLiang.jpg
-#   rockstar: false
-#   social:
-#     - {name: "website", link: ""}
+-
+  id: 2
+  name: "Dr. Bor-sung"
+  surname: "Liang"
+  company: "Mediatek"
+  title: "Chief Technology Consultant, IDBG"
+  bio: ""
+  thumbnailUrl: BorSungLiang.jpg
+  rockstar: ture
+  social:
+    - {name: "website", link: ""}
 
 #-
 #  id: 6
@@ -278,23 +278,23 @@
 #   social:
 #     - {name: "website", link: ""}
 
--
-  id: 2
-  name: "MingYang Chih 池明洋"
-  surname: ""
-  company: "CHELPIS"
-  title: "CEO & Founder"
-  bio: "MingYang graduated with Mater degree from National Taiwan University.<br>
-He works in new technology development over 10 years and joins over 20 advance products from Health care, Crypto, IoT, Mobile app, Blockchain.<br>
-He involved three startups as co-founder. He learns from the experiences to build up the leadership, business development, product management and build future.<br>
-These knowledge base apply on Chelpis to develop many products. He lets Chelpis create happy revenues in two years and with profits.<br>
-Chelpis focus on blockchain ledger application and token economy system now. These system will apply self-made products KelvinWallet, Chelpis Ledger, SAAS. 
-"
-  thumbnailUrl: MingYang.jpg
-  rockstar: false
-  social:
-    - {name: "site", link: "https://chelpis.com"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/my-chih/#experience-section"}
+# -
+#   id: 2
+#   name: "MingYang Chih 池明洋"
+#   surname: ""
+#   company: "CHELPIS"
+#   title: "CEO & Founder"
+#   bio: "MingYang graduated with Mater degree from National Taiwan University.<br>
+# He works in new technology development over 10 years and joins over 20 advance products from Health care, Crypto, IoT, Mobile app, Blockchain.<br>
+# He involved three startups as co-founder. He learns from the experiences to build up the leadership, business development, product management and build future.<br>
+# These knowledge base apply on Chelpis to develop many products. He lets Chelpis create happy revenues in two years and with profits.<br>
+# Chelpis focus on blockchain ledger application and token economy system now. These system will apply self-made products KelvinWallet, Chelpis Ledger, SAAS. 
+# "
+#   thumbnailUrl: MingYang.jpg
+#   rockstar: false
+#   social:
+#     - {name: "site", link: "https://chelpis.com"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/my-chih/#experience-section"}
 
 # -
 #   id: 25
@@ -383,7 +383,7 @@ Chelpis focus on blockchain ledger application and token economy system now. The
 #     - {name: "website", link: ""}
 
 -
-  id: 6
+  id: 4
   name: "Yu-Jing"
   surname: "Lin"
   company: "National Taiwan University"
@@ -394,15 +394,15 @@ Chelpis focus on blockchain ledger application and token economy system now. The
   social:
     - {name: "website", link: ""}
 
-# -
-#   id: 32
-#   name: "Yisi"
-#   surname: "Liu"
-#   company: "Dimension"
-#   title: "CTO"
-#   bio: ""
-#   thumbnailUrl: Yisi.jpg
-#   rockstar: false
-#   social:
-#     - {name: "website", link: ""}
+-
+  id: 5
+  name: "Yisi"
+  surname: "Liu"
+  company: "Dimension"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: Yisi.jpg
+  rockstar: ture
+  social:
+    - {name: "website", link: ""}
 
