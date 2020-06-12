@@ -1,9 +1,9 @@
 -
   date: "2020-06-12"
-  dateReadable: "June 12 <small><small>(Premiere Week)</small></small>"
+  dateReadable: "June 12 <small><small></small></small>"
   day: "day 1"
   tracks:
-      - {title: "台灣資工德田館 105 教室", color: "#90be4e"}
+      - {title: "台灣資工德田館 104 教室", color: "#90be4e"}
   timeslots:
     # - {
     #     startTime: "",
@@ -23,11 +23,11 @@
 #   tracks:
 #       - {title: "中山大學管理學院2037演講廳 下午場", color: "#90be4e"}
 #   timeslots:
-#    - {
-#        startTime: "",
-#        endTime: "",
-#        sessionIds: [506]
-#    }
+     # - {
+     #   startTime: "16:00",
+     #   endTime: "17:00",
+     #   sessionIds: [600]
+     # }
 #    - {
 #        startTime: "10:00",
 #        endTime: "10:30",
@@ -53,31 +53,31 @@
 #        endTime: "13:15",
 #        sessionIds: [103]
 #    }
-    # - {
-    #     startTime: "",
-    #     endTime: "",
-    #     sessionIds: [504]
-    # }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [600]
+    }
     - {
         startTime: "17:00",
-        endTime: "18:30",
-        sessionIds: [505]
+        endTime: "17:50",
+        sessionIds: [003]
     }
-    # - {
-    #     startTime: "13:45",
-    #     endTime: "14:00",
-    #     sessionIds: [507]
-    # }
-    # - {
-    #     startTime: "14:00",
-    #     endTime: "14:15",
-    #     sessionIds: [513]
-    # }
-    # - {
-    #     startTime: "14:15",
-    #     endTime: "14:30",
-    #     sessionIds: [304]
-    # }
+    - {
+        startTime: "18:00",
+        endTime: "18:50",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "18:50",
+        endTime: "19:00",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "20:00",
+        sessionIds: [013]
+    }
     # - {
     #     startTime: "",
     #     endTime: "",
@@ -109,18 +109,18 @@
     #     sessionIds: [512]
     # }
 
-# -
-#   date: "2020-05-23"
-#   dateReadable: "May 23"
-#   day: "day 2"
-#   tracks:
-#       - {title: "台大資工德田館 102 教室", color: "#90be4e"}
-#   timeslots:
-#     - {
-#         startTime: "18:30",
-#         endTime: "21:00",
-#         sessionIds: [601]
-#     }
+-
+  date: "2020-06-13"
+  dateReadable: "June 13"
+  day: "day 2"
+  tracks:
+      - {title: "台大資工德田館 104 教室", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "17:00",
+        endTime: "18:30",
+        sessionIds: [505]
+    }
 # -
 #   date: "2019-05-10"
 #   dateReadable: "May 10"

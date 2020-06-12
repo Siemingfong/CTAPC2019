@@ -59,17 +59,17 @@
   #complexity: "Intermediate" 
 -
   id: 003
-  title: " Panel discussion"
+  title: "Systems-Level Innovations with In-kernel Virtual Machine"
   description: "7"
   subtype: presentation
-  speakers: []
+  speakers: [6]
   #complexity: "Intermediate" 
 -
   id: 004
-  title: "OS special oral session"
+  title: "虛擬通貨交易平台 Fin + Tech"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [7]
   #complexity: "Intermediate" 
 -
   id: 005
@@ -93,11 +93,11 @@
   speakers: [5]
   #complexity: "Intermediate"
 -
-  id: 008
-  title: "AI Research"
+  id: 600
+  title: "Compilers for CGRA AI Processors"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [1]
   #complexity: "Intermediate"
 -
   id: 009
@@ -120,21 +120,20 @@
   subtype: presentation
   speakers: []
   #complexity: "Intermediate"
-# -
-#   id: 012
-#   title: "Panel discussion"
-#   description: ""
-#   subtype: presentation
-#   speakers: []
+-
+  id: 012
+  title: "Panel discussion"
+  description: "AI System 的現況，挑戰與機會"
+  subtype: presentation
+  speakers: []
 #   #complexity: "Intermediate"
-# -
-#   id: 013
-#   title: "題目：Using Match Network & Relative Attributes for Multi-domain Image-to-Image Translation<br>
-# 主講人：P. Wu., Y. Lin., C. Chang., E. Chang. and S. Liao. (Researcher, National Taiwan University)"
-#   description: ""
-#   subtype: presentation
-#   speakers: []
-#   #complexity: "Intermediate"
+-
+  id: 013
+  title: "Skymizer lightning talk"
+  description: "Deyu Tsai, Founder of Skymizer, Paiheng Hsiao, CEO of Memorence.ai, 台大江炯聰教授"
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
 # -
 #   id: 014
 #   title: "Poster Session<br>
@@ -400,7 +399,7 @@
   title: "新冠肺炎下的資安隱私與數據分析"
   description: ""
   subtype: presentation
-#   speakers: [1] 
+  speakers: [1] 
 # -
 #   id: 506
 #   title: "主持人：Dr. 馬黛 (Professor at National Sun Yat-sen University)"

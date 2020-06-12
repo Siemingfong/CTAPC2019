@@ -254,17 +254,17 @@
 #   rockstar: false
 #   social:
 #     - {name: "website", link: ""}
-# -
-#   id: 3
-#   name: "David Pan 潘奕彰"
-#   surname: ""
-#   company: "ACE 加速器"
-#   title: "CEO"
-#   #bio: ""
-#   thumbnailUrl: David.jpg
-#   rockstar: false
-#   social:
-#     - {name: "website", link: ""}
+-
+  id: 7
+  name: "David Pan 潘奕彰"
+  surname: ""
+  company: "ACE 加速器"
+  title: "CEO"
+  #bio: ""
+  thumbnailUrl: David.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: ""}
 
 # -
 #   id: 23
@@ -308,17 +308,17 @@
 #   social:
 #     - {name: "website", link: ""}
 
-# -
-#   id: 26
-#   name: "Dr. Jserv 黃敬群"
-#   surname: ""
-#   company: "National Cheng Kung University"
-#   title: "Professor"
-#   bio: "黃敬群 (Jim Huang)，網路慣用暱稱為 \"jserv\"。參與過若干世界級的開放原始碼專案，如 Android Open Source Project, GCC, LXDE。過去服務於消費性電子產品、IC 設計與工業自動化等領域，專注作業系統、編譯器、虛擬機器等技術議題。"
-#   thumbnailUrl: Jserv.jpg
-#   rockstar: false
-#   social:
-#     - {name: "website", link: ""}
+-
+  id: 6
+  name: "Dr. Jserv 黃敬群"
+  surname: ""
+  company: "National Cheng Kung University"
+  title: "Professor"
+  bio: "黃敬群 (Jim Huang)，網路慣用暱稱為 \"jserv\"。參與過若干世界級的開放原始碼專案，如 Android Open Source Project, GCC, LXDE。過去服務於消費性電子產品、IC 設計與工業自動化等領域，專注作業系統、編譯器、虛擬機器等技術議題。"
+  thumbnailUrl: Jserv.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: ""}
 
 -
   id: 3
