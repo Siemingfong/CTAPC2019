@@ -1,6 +1,6 @@
 -
-  date: "2020-06-12"
-  dateReadable: "June 12 <small><small></small></small>"
+  date: "2020-07-03"
+  dateReadable: "July 03 <small><small></small></small>"
   day: "day 1"
   tracks:
       - {title: "台灣資工德田館 104 教室", color: "#90be4e"}
@@ -110,15 +110,50 @@
     # }
 
 -
-  date: "2020-06-13"
-  dateReadable: "June 13"
+  date: "2020-07-04"
+  dateReadable: "July 04"
   day: "day 2"
   tracks:
       - {title: "台大資工德田館 104 教室", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "17:00",
-        endTime: "18:30",
+        startTime: "09:00",
+        endTime: "09:50",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "09:50",
+        endTime: "10:00",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:40",
+        sessionIds: [010]
+    }
+    - {
+        startTime: "10:40",
+        endTime: "10:50",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:30",
+        sessionIds: [010]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:10",
+        sessionIds: [010]
+    }
+    - {
+        startTime: "12:10",
+        endTime: "13:10",
+        sessionIds: [103]
+    }    
+    - {
+        startTime: "13:10",
+        endTime: "14:30",
         sessionIds: [505]
     }
 # -

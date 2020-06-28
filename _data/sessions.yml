@@ -93,6 +93,13 @@
   speakers: [5]
   #complexity: "Intermediate"
 -
+  id: 010
+  title: "CTAPC Trading Competition Winner Announcement"
+  description: ""
+  subtype: presentation
+  speakers: []
+  #complexity: "Intermediate"
+-
   id: 600
   title: "Compilers for CGRA AI Processors"
   description: ""
@@ -106,14 +113,14 @@
   subtype: presentation
   speakers: []
   #complexity: "Intermediate"
--
-  id: 010
-  title: "Blockchain Research"
-  description: ""
-  subtype: presentation
-  speakers: []
-  #complexity: "Intermediate"
--
+# -
+#   id: 010
+#   title: "Blockchain Research"
+#   description: ""
+#   subtype: presentation
+#   speakers: []
+#   #complexity: "Intermediate"
+# -
   id: 011
   title: "Blockchain Research"
   description: ""

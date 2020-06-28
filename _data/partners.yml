@@ -11,5 +11,8 @@
     - {name: "聯發科", description: "聯發科", link: "https://www.mediatek.tw/", imageUrl: "MediaTek.png"}
     - {name: "Himax", description: "Himax", link: "https://www.himax.com.tw/", imageUrl: "himax.png"}
     - {name: "SYSTEX 精誠資訊", description: "SYSTEX 精誠資訊", link: "https://tw.systex.com/", imageUrl: "systex.png"}
+    - {name: "Formosa Plastics Group 台塑企業", description: "Formosa Plastics Group 台塑企業", link: "https://www.fpg.com.tw/tw", imageUrl: "Formosa.png"}
+    - {name: "E.Sun Commercial Bank 玉山銀行", description: "E.Sun Commercial Bank 玉山銀行", link: "https://www.esunbank.com.tw/bank/personal", imageUrl: "Esun.png"}
+    - {name: "Crypto Arsenal", description: "Crypto Srsenal", link: "https://crypto-arsenal.io/zh-tw", imageUrl: "Cryptoarsenal.png"}    
   #    - {name: "HTC", description: "HTC - Leading world VR and Blockchain Phone manufacturer", link: "https://www.htc.com/us/", imageUrl: "Htc.png"}
   #  - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
