@@ -156,6 +156,56 @@
         endTime: "14:30",
         sessionIds: [505]
     }
+    - {
+        startTime: "14:30",
+        endTime: "14:40",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "14:40",
+        endTime: "15:30",
+        sessionIds: [310]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "15:40",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "15:40",
+        endTime: "16:20",
+        sessionIds: [401]
+    }
+    - {
+        startTime: "16:20",
+        endTime: "16:30",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:10",
+        sessionIds: [406]
+    }
+    - {
+        startTime: "17:10",
+        endTime: "17:20",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "17:20",
+        endTime: "18:10",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "18:10",
+        endTime: "18:30",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "18:30",
+        endTime: "20:00",
+        sessionIds: [100]
+    }
 # -
 #   date: "2019-05-10"
 #   dateReadable: "May 10"

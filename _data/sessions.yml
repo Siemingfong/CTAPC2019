@@ -100,6 +100,13 @@
   speakers: []
   #complexity: "Intermediate"
 -
+  id: 100
+  title: "CTAPC Trading Competition Winner Announcement Final Round"
+  description: ""
+  subtype: presentation
+  speakers: [1,8,9,10,11,12]
+  #complexity: "Intermediate"
+-
   id: 600
   title: "Compilers for CGRA AI Processors"
   description: ""
@@ -219,13 +226,13 @@
 #   subtype: presentation
 #   speakers: [20]
 #   #complexity: "Intermediate"
-#   #-
-#   #  id: 310
-#   #  title: "物聯網與區塊鏈的完美結合"
-#   #  description: ""
-#   #  subtype: presentation
-#   #  speakers: [21]
-#   #  #complexity: "Intermediate"
+-
+   id: 310
+   title: "物聯網與區塊鏈的完美結合"
+   description: ""
+   subtype: presentation
+   speakers: []
+   #complexity: "Intermediate"
 # -
 #   id: 311
 #   title: "區塊鏈技術圓桌論壇 Panel of Token economic"
@@ -236,12 +243,12 @@
 #   speakers: []
 #   #complexity: "Intermediate"
    
-# -
-#   id: 401
-#   title: "The Computing Frontiers of Social Network"
-#   description: ""
-#   subtype: presentation
-#   speakers: [4]
+-
+  id: 401
+  title: "The Computing Frontiers of Social Network"
+  description: ""
+  subtype: presentation
+  speakers: []
 # -
 #   id: 402
 #   title: "Edge AI and Its Key Success Factors"
@@ -255,18 +262,18 @@
 #   #  description: ""
 #   #  subtype: presentation
 #   #  speakers: [4,13]
-# -
-#   id: 405
-#   title: "Introduction to NNEF for AI Framework"
-#   description: ""
-#   subtype: presentation
-#   speakers: [14]
-# -
-#   id: 406
-#   title: "Formal Verification for Blockchain and Trusted Computing"
-#   description: ""
-#   subtype: presentation
-#   speakers: [26]
+-
+  id: 405
+  title: "Introduction to NNEF for AI Framework"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 406
+  title: "Formal Verification for Blockchain and Trusted Computing"
+  description: ""
+  subtype: presentation
+  speakers: [3]
 # -
 #   id: 407
 #   title: "企業區塊鏈之應用實例與技術探討"

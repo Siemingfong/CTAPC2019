@@ -1,7 +1,7 @@
 -
   id: 1
-  name: "廖世偉"
-  surname: ""
+  name: "Dr. Steve"
+  surname: "Liao"
   company: "National Taiwan University"
   title: "Professor"
   bio: "台灣大學資工系副教授廖世偉是Stanford大學博士，過去在史丹佛, Intel, Google工作了22年，是Android compiler, Virtual machine, RenderScript engine的原作者之一，因對Android的貢獻，獲得Google頒發的最高榮譽：創始人獎（Founders' award）。專長於區塊鏈、Android系統、大數據與金融科技，並開設台灣大學FinTech&區塊鏈課程。"
@@ -316,7 +316,7 @@
   title: "Professor"
   bio: "黃敬群 (Jim Huang)，網路慣用暱稱為 \"jserv\"。參與過若干世界級的開放原始碼專案，如 Android Open Source Project, GCC, LXDE。過去服務於消費性電子產品、IC 設計與工業自動化等領域，專注作業系統、編譯器、虛擬機器等技術議題。"
   thumbnailUrl: Jserv.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "website", link: ""}
 
@@ -328,7 +328,7 @@
   title: "Chief Scientist"
   bio: ""
   thumbnailUrl: PoChun.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "website", link: ""}
 
@@ -398,11 +398,86 @@
   id: 5
   name: "Yisi"
   surname: "Liu"
-  company: "Dimension"
+  company: "Soochow University"
   title: "CTO"
   bio: ""
   thumbnailUrl: Yisi.jpg
-  rockstar: ture
+  rockstar: false
   social:
     - {name: "website", link: ""}
 
+-
+  id: 8
+  name: "Dr. Chiung-Feng"
+  surname: "Ko"
+  company: "Soochow University"
+  title: "Associate Professor"
+  bio: "Accounting Information Systems, Risk Management, Accounting Treatment of Derivatives, Credit Rating, Credit Derivatives"
+  thumbnailUrl: ChiungFeng.jpg
+  rockstar: false
+  social:
+    - {name: "website", link: "https://web-en.scu.edu.tw/acc/teacher_resume/1031?page=2"}
+
+-
+  id: 9
+  name: "Dr. Jong-Tsong"
+  surname: "Chiang"
+  company: "National Taiwan University"
+  title: "Formal Dean of College of Management"
+  bio: "PhD,Massachusetts Institute of Technology
+  Research Field
+• Business Technology Strategy
+• Technology and Innovation Management
+• High- and New-Tech Entrepreneurship and Investment
+• Network Economics and Industry Analysis"
+  thumbnailUrl: JongTsong.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: "http://www.management.ntu.edu.tw/en/faculty/teacher/sn/107"}
+
+-
+  id: 10
+  name: "Dr. Hung-Jen"
+  surname: "Wang"
+  company: "National Taiwan University"
+  title: "Dean College of Social Sciences"
+  bio: "National Science Council Excellent Research Award (3-year term), 2003, 2010.
+Lien Zhen-Dong Memorial Fellowship, National Taiwan University, 2009.
+Academia Sinica Research Award for Junior Research Investigators, 2003, Academia Sinica.
+Wu Ta-You Memorial Prize, 2003, National Science Council.
+National Science Council Research Award, 1998, 1999, 2000, 2001, 2002.
+Rackham Dissertation Fellowship, September 1997, The University of Michigan.
+Honor Teaching Assistant, December 1994, April 1995 and December 1995, Department of
+Economics, The University of Michigan.
+Summer Research Fellowship, May 1993, Department of Economics, The University of
+Michigan.
+Book Coupon Award, June 1990 and January 1991, Department of Economics, National
+Taiwan University."
+  thumbnailUrl: WangHung.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: "http://homepage.ntu.edu.tw/~wangh/"}
+
+-
+  id: 11
+  name: "Dr. Yun-Cheng"
+  surname: "Tsai"
+  company: "Soochow University"
+  title: "Assistant Professor College of Big Data Management"
+  bio: "I had working experience in R&D for four years before entering the Ph.D. program. Also, I had an additional two years of experience as a bank consultant and more than five years of teaching programming experience in Information System Training Program, National Taiwan University during the Ph.D. program. I graduated from the Department of Computer Science and Information Engineering at the National Taiwan University. I start to work for my alma mater in the Center for General Education until now since 2016 summer. My responsibility is designing and teaching the cross fields computational thinking courses. Including, data science, data visualization, and data analysis. It’s a new term CS+X, which means Computer Science for anything. The working experience cultivate my strength of interdisciplinary teaching and research."
+  thumbnailUrl: YunCheng.png
+  rockstar: true
+  social:
+    - {name: "website", link: "http://bigdata.scu.edu.tw/en/people/yun-cheng-tsai"}
+
+-
+  id: 12
+  name: "S.J.D. Yung-Cheng"
+  surname: "Chuang"
+  company: "Soochow University"
+  title: "Associate Dane College of School of Law"
+  bio: "GENERAL PRINCIPLES OF COMMERCIAL LAW AND COMPANY LAW, SECURITIES EXCHANGE LAW AND REGULATIONS, SEMINAR ON ENTERPRISE LAWS, SEMINAR ON SECURITIES EXCHANGE LAW AND REGULATIONS; NEW SERVICE TALENT - CAREER EXPLORATION AND SELF DEVELOPMENT, SEMINAR ON FINANCIAL LAWS, ADVANCED SEMINAR ON COMMERCIAL LAW"
+  thumbnailUrl: YungCheng.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: "https://web-en.scu.edu.tw/lex/teacher_resume/779"}
